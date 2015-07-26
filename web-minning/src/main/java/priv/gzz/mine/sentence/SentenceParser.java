@@ -16,7 +16,7 @@ import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 public class SentenceParser {
 	private static Logger logger = Logger.getLogger(SentenceParser.class);
 
-	private static String MODEL_FILE = "resources/chineseFactored.ser.gz";
+	private static String MODEL_FILE = "data/chineseFactored.ser.gz";
 
 	private LexicalizedParser lp;
 
