@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/priv/gzz/mine/classify/PmiClassifier.java=UTF-8
+encoding//src/priv/gzz/mine/classify/model/OutputFormater.java=UTF-8
+encoding//src/priv/gzz/mine/sentence/DependencyParserDemo.java=UTF-8
+encoding//src/priv/gzz/mine/service/ReportService.java=UTF-8
+separateDerivedEncodings=true

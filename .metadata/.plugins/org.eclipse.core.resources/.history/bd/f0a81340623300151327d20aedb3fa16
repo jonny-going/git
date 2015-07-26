@@ -1,0 +1,206 @@
+package priv.gzz.mine.service;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.regex.Pattern;
+
+import org.apache.log4j.Logger;
+
+import priv.gzz.mine.service.model.Coordinate;
+import priv.gzz.mine.service.model.IndexItem;
+import priv.gzz.mine.util.Constants;
+import priv.gzz.mine.util.FileUtil;
+import priv.gzz.mine.util.StringUtil;
+
+/**
+ * 提供对源数据的统计相关的服务
+ * 
+ * @author Administrator
+ *
+ */
+public class ReportService {
+	private static Logger logger = Logger.getLogger(ReportService.class);
+
+	private static final String FILTER_REGEXP = "，|。|；|？|！|,|\\.|;|\\?|!|\\s|:|：|、|@|#|￥|\\%|……|&|\\*|（|）|\\(|\\)|=|\\+|<|>|-|——|一";
+
+	private Map<String, IndexItem> index;
+
+	private int totalWords = 0;
+	/* 基础数据源，由文件及文件中的词集构成 */
+	private Map<String, List<String>> dataSource;
+
+	public void init(String path) throws Exception {
+		File inputPath = new File(path);
+		FileUtil.checkPathRead(inputPath);
+		dataSource = new HashMap<String, List<String>>();
+		for (File file : inputPath.listFiles()) {
+			String content = FileUtil.readFile(file);
+			List<String> words = new ArrayList<String>();
+			for (String string : content.split("\\s")) {
+				if (!filter(string)) {
+					words.add(string);
+					totalWords++;
+				}
+			}
+			dataSource.put(file.getName(), words);
+		}
+		buildIndex();
+		logger.info("Report service init OK.");
+	}
+
+	/**
+	 * 源数据词过滤器，返回true则词应该被过滤，否则不过滤
+	 * 
+	 * @param string
+	 * @return
+	 */
+	private boolean filter(String string) {
+		if (StringUtil.isEmpty(string)) {
+			return true;
+		}
+		string = string.replaceAll("\\s", "");
+		Pattern pattern = Pattern.compile(FILTER_REGEXP);
+		return pattern.matcher(string).find();
+	}
+
+	/**
+	 * 扫描数据源，构建索引
+	 */
+	private void buildIndex() {
+		index = new HashMap<String, IndexItem>();
+		for (Map.Entry<String, List<String>> docWords : dataSource.entrySet()) {
+			String fileName = docWords.getKey();
+			List<String> wordList = docWords.getValue();
+			for (int i = 0; i < wordList.size(); i++) {
+				String word = wordList.get(i);
+				Coordinate cod = new Coordinate(fileName, i);
+				if (index.containsKey(word)) {
+					index.get(word).addCoordinate(cod);
+				} else {
+					IndexItem item = new IndexItem();
+					item.setWord(word);
+					item.addCoordinate(cod);
+					index.put(word, item);
+				}
+			}
+		}
+		logger.info("Build index OK.");
+	}
+
+	/**
+	 * 查询文档集所有单词的数量
+	 * 
+	 * @return
+	 */
+	public int totalWords() {
+		return this.totalWords;
+	}
+
+	/**
+	 * 统计某个单词出现的次数
+	 * 
+	 * @param word
+	 * @return
+	 */
+	public int countWord(String word) {
+		IndexItem item = index.get(word);
+		if (item != null && item.getCoordinateList() != null) {
+			return item.getCoordinateList().size();
+		}
+		return 0;
+	}
+
+	/**
+	 * 统计某个词在某个文档中出现的次数
+	 * 
+	 * @param word
+	 * @param doc
+	 * @return
+	 */
+	public int countWordInDocument(String word, String doc) {
+		IndexItem item = index.get(word);
+		if (item == null || item.getCoordinateList() == null) {
+			return 0;
+		}
+		List<Coordinate> selected = (List<Coordinate>) CollectionUtils.select(item.getCoordinateList(),
+				new Predicate<Coordinate>() {
+					@Override
+					public boolean evaluate(Coordinate cod) {
+						return doc.equals(cod.getDoc());
+					}
+				});
+		return selected.size();
+	}
+
+	/**
+	 * 统计2个词同时出现在同一个文档中的次数
+	 * 
+	 * @param word1
+	 * 
+	 * @param word2
+	 * @return
+	 */
+	public int countCoexist(String word1, String word2) {
+		IndexItem item1 = index.get(word1);
+		IndexItem item2 = index.get(word2);
+		if (item1 == null || item2 == null) {
+			return 0;
+		}
+		if (item1.getCoordinateList() == null || item2.getCoordinateList() == null) {
+			return 0;
+		}
+		int count = 0;
+		for (Coordinate cod1 : item1.getCoordinateList()) {
+			for (Coordinate cod2 : item2.getCoordinateList()) {
+				if (cod1.getDoc().equals(cod2.getDoc())) {
+					// 两个词距离小于10
+					if (Math.abs(cod1.getIndex() - cod2.getIndex()) < Constants.WORD_MAX_DISTANCE) {
+						count++;
+					}
+				}
+			}
+		}
+		return count;
+	}
+
+	/**
+	 * 统计一个词与一个词集中任意的词同时出现的次数(与词集中多个词同时出现时，只算1次)
+	 * 
+	 * @param word1
+	 * @param word2Set
+	 * @return
+	 */
+	public int countDistinctCoexist(String word1, Set<String> word2Set) {
+		IndexItem item1 = index.get(word1);
+		int result = 0;
+		if (item1 == null || item1.getCoordinateList() == null) {
+			return result;
+		}
+		Set<Coordinate> distinctSet = new HashSet<Coordinate>();
+		for (String word2 : word2Set) {
+			IndexItem item2 = index.get(word2);
+			if (item2 == null || item2.getCoordinateList() == null) {
+				continue;
+			}
+			for (Coordinate cod1 : item1.getCoordinateList()) {
+				for (Coordinate cod2 : item2.getCoordinateList()) {
+					if (cod1.getDoc().equals(cod2.getDoc())) {
+						// 两个词距离小于10
+						if (Math.abs(cod1.getIndex() - cod2.getIndex()) < Constants.WORD_MAX_DISTANCE) {
+							if (!distinctSet.contains(cod1)) {
+								result++;
+								distinctSet.add(cod1);
+							}
+						}
+					}
+				}
+			}
+		}
+		return result;
+	}
+}
