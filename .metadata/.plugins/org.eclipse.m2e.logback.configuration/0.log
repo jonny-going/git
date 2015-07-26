@@ -635,3 +635,97 @@ org.eclipse.jface.text.BadLocationException: null
 2015-07-26 15:19:02,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
 2015-07-26 15:19:02,327 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2015-07-26 15:19:02,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:25:08,175 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:25:08,175 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:25:08,175 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:25:08,175 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:25:59,819 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:25:59,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:25:59,835 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:25:59,835 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:26:15,250 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:26:15,484 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:26:15,484 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:26:15,484 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:26:15,484 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:27:05,235 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:27:05,235 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:27:05,235 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:27:05,235 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:27:24,519 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:27:24,519 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:27:24,519 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:27:24,519 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:28:19,532 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:28:19,578 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:19,578 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:28:19,578 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:19,578 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:28:26,623 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:26,623 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:28:26,623 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:26,623 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:28:27,652 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:27,652 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:28:27,652 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:27,652 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:28:37,215 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:28:37,246 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:37,246 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:28:37,246 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:37,246 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:28:58,190 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:28:58,221 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:58,221 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\main\resources
+2015-07-26 15:28:58,221 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:28:58,221 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:39:11,865 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:39:12,037 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:39:12,037 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-07-26 15:39:12,037 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:39:12,037 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:39:15,172 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:39:15,172 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-26 15:39:15,188 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:39:15,188 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:39:19,194 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:39:19,350 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:39:19,350 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-07-26 15:39:19,350 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:39:19,350 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:39:49,197 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-07-26 15:39:49,275 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\git\web-minning
+2015-07-26 15:39:49,275 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -s D:\Apps\maven\settings.xml clean install
+2015-07-26 15:40:14,660 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-07-26 15:40:14,706 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:40:14,816 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web-minning/src/main/java
+2015-07-26 15:40:14,816 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /web-minning/src/main/resources overlaps with sources folder /web-minning/src/main/resources
+2015-07-26 15:40:14,816 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /web-minning/src/test/java
+2015-07-26 15:40:14,894 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: priv.gzz:web-minning:0.0.1-SNAPSHOT @ F:\git\web-minning\pom.xml.
+2015-07-26 15:40:14,925 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-07-26 15:40:15,471 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:40:15,471 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-26 15:40:15,471 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:40:15,471 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:40:20,619 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-07-26 15:40:20,666 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\git\web-minning
+2015-07-26 15:40:20,666 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -s D:\Apps\maven\settings.xml clean install
+2015-07-26 15:41:38,384 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:41:38,386 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-07-26 15:41:38,388 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:41:38,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:41:45,668 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\git\web-minning
+2015-07-26 15:41:45,669 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -s D:\Apps\maven\settings.xml clean install
+2015-07-26 15:42:34,227 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:42:34,228 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-26 15:42:34,231 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:42:34,232 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
+2015-07-26 15:42:39,061 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\git\web-minning
+2015-07-26 15:42:39,061 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -s D:\Apps\maven\settings.xml clean install
+2015-07-26 15:42:48,931 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-07-26 15:43:01,516 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\git\web-minning
+2015-07-26 15:43:01,516 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -s D:\Apps\maven\settings.xml clean package
+2015-07-26 15:43:08,439 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:43:08,442 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-07-26 15:43:08,445 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-26 15:43:08,446 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\git\web-minning\src\test\resources
