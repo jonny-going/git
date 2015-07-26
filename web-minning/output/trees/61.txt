@@ -1,0 +1,118 @@
+(ROOT
+  (IP
+    (NP
+      (NP (NR 花冠))
+      (NP (NN 方向)))
+    (VP (VV 指向)
+      (NP (NN 模糊)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 驾驶) (NN 感))
+    (VP (VV 变差)
+      (VP
+        (NP (NT 今天))
+        (VP (VV 走) (AS 了)
+          (NP
+            (QP (CD 一)
+              (CLP (M 段)))
+            (NP (NN 烂路))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 通过)
+        (NP
+          (DNP
+            (NP
+              (QP (CD 一)
+                (CLP (M 个)))
+              (NP (NN 坑)))
+            (DEG 的))
+          (NP (NN 时候))))
+      (VP (VV 打)
+        (NP (NN 方向))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 突然))
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 方向盘))
+          (VP
+            (VP (VV 打滑) (AS 了))
+            (VP (VA 一样))))))))
+####
+(ROOT
+  (IP
+    (LCP
+      (NP (NN ))
+      (LC 之后))
+    (VP
+      (ADVP (AD 老))
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 方向盘))
+          (VP (VV 指向)
+            (VP (VA 模糊))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 驾驶)
+        (NP (NN 感))))
+    (VV 变差)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 但))
+      (VP
+        (ADVP (AD 又))
+        (VP (VE 没有)
+          (NP (NN 跑偏)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 就))
+      (VP (VV 感觉)
+        (IP
+          (NP
+            (NP (NN 方向盘))
+            (ADJP (JJ 游离))
+            (NP (NN 缝隙)))
+          (VP (VA 大) (AS 了)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 知道)
+        (IP
+          (VP (VC 是)
+            (IP
+              (VP
+                (ADVP (AD 不))
+                (VP (VC 是)
+                  (NP (NN 故障)))))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP
+        (VP (VV 有请)
+          (NP (NN 老花)))
+        (VP (VE 有)
+          (NP (VV 帮忙))))
+      (VP (VV 解答)))))
+####
+X

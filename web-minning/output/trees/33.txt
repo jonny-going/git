@@ -1,0 +1,109 @@
+(ROOT
+  (CP
+    (IP
+      (NP
+        (ADJP (JJ 新))
+        (NP (NN 君)))
+      (VP
+        (ADVP (AD 越))
+        (VP
+          (QP (CD 1)
+            (CLP (M 年))))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NN ) (NN 里面))
+        (DEG 的))
+      (ADJP (JJ 刺鼻))
+      (NP (NN 味道)))
+    (IP
+      (ADVP (AD 还有))
+      (VP
+        (ADVP (AD 怎么))
+        (VP (VV 解决))))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 求)
+          (NP (NN 高手)))))
+    (IP
+      (NP (PN 什么))
+      (VP
+        (ADVP (AD 招都))
+        (VP (VV 用上) (AS 了))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DP (DT 什么))
+        (NP (NN 竹炭包))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 去)
+          (NP (NN 异味)))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (PRN
+      (NP (NN ) (NN 柚子) (NN 皮) (ETC 等等)))
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP (VV 能)
+              (VP (VV 用上))))
+          (DEC 的)))
+      (VP
+        (ADVP (AD 都))
+        (VP (VV 用) (AS 了))))
+    (IP
+      (VP
+        (ADVP (AD 一点))
+        (VP
+          (VPT (VV 用) (AD 都) (VV 没有)))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NN ))
+      (VP
+        (PP
+          (ADVP (AD 特别是))
+          (PP (P 在)
+            (LCP
+              (NP (NN 太阳))
+              (LC 底下))))
+        (VP (VV 晒)
+          (NP
+            (QP (CD 一)
+              (CLP (M 段)))
+            (NP (NN 时间))))))
+    (IP
+      (NP
+        (DP (DT 那)
+          (CLP (M 股)))
+        (ADJP (JJ 刺鼻))
+        (NP (NN 味道)))
+      (VP (VV 闻到)
+        (VP (VV 能)
+          (VP (VV 吐)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP (NN 解决) (NN 办法))
+        (PU 、)))))

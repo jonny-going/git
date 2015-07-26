@@ -1,0 +1,120 @@
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD 新))
+      (VP (VV 蒙)
+        (QP (CD 2))))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 0t))
+      (NP (NN 提速)))
+    (VP
+      (QP
+        (QP (CD 0-100)
+          (CLP (M 公里)))
+        (QP (CD 7))))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (CD 5)
+        (CLP (M 秒))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ) (NR 迈腾) (PU 、) (NR 帕萨特) (ETC 等))
+      (NP (NN 数据)))
+    (VP (VV 分析)
+      (IP
+        (VP (VV 致胜)
+          (QP (CD 2)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (CD 0t))
+      (VP (VV 貌似)
+        (QP (CD 8))))))
+####
+(ROOT
+  (IP
+    (VP
+      (IP
+        (VP
+          (QP (CD 3)
+            (CLP (M 秒)))))
+      (IP
+        (VP
+          (IP
+            (VP (PU …)))
+          (FLR (PU …))))
+      (VP
+        (QP (CD 7))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 5-8))))
+####
+(ROOT
+  (IP
+    (NP (NT 3))
+    (VP
+      (ADVP (AD 大概))
+      (VP (VC 是)
+        (QP (CD 0))))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (CD 8)
+        (CLP (M 秒))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 差别))
+    (VP
+      (ADVP (AD 不))
+      (VP (VA 大)))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (ADVP (AD 所以))
+      (VP
+        (ADVP (AD 不))
+        (VP (VV 用)
+          (NP
+            (ADJP (JJ 纠结))
+            (DP (DT 这个))
+            (NP (NN 提速))))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD 0)))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (CD 8)
+        (CLP (M 秒)))
+      (VP (VA 能干)))
+    (NP (PN 什么))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP
+          (DNP
+            (QP (CD 一眨眼))
+            (DEG 的))
+          (NP (NN 工夫)))))
+    (SP 而已)))
+####
+X

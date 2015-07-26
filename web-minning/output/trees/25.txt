@@ -1,0 +1,106 @@
+(ROOT
+  (IP
+    (NP
+      (ADJP (JJ 全新))
+      (NP (NN 胜达)))
+    (VP (VV 漏)
+      (NP (NN 机油)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 朋友们))
+    (VP
+      (VP (VE 有)
+        (NP (NN 木)))
+      (VP (VE 有)))))
+####
+(ROOT
+  (NP (NN ) (NN 朋友们)))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 你们))
+      (VP
+        (VNV (VE 有) (AD 没) (VE 有))
+        (VP (VV 发现)
+          (NP
+            (DP (DT 这)
+              (CLP (M 种)))
+            (NP (NN 情况))))))
+    (SP 呀)))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VA 好吧)))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我))
+    (VP (VV 希望)
+      (IP
+        (NP (PN 你们))
+        (VP
+          (ADVP (AD 没有))
+          (VP (VV 咯)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP (VC 是)
+      (NP (NN 隔离)))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP (VV )
+              (NP
+                (DNP
+                  (NP (NN 希望))
+                  (DEG 的))
+                (NP (NN 打击)))))
+          (DEC 的))
+        (NP (NN 车)))
+      (VP
+        (ADVP (AD 都))
+        (VP (VA 好好))))
+    (SP 的)))
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (ADVP (AD 可是))
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 真的))
+        (VP (VV 想)
+          (IP
+            (VP (VV 寻找)
+              (ADVP (AD 一下))
+              (NP (NN 知音)))))))
+    (SP 啊)))
+####
+X

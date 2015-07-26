@@ -1,0 +1,213 @@
+(ROOT
+  (IP
+    (VP
+      (PP (P 当)
+        (LCP
+          (IP
+            (NP (NN 环境) (NN 温度))
+            (VP (VV 低于)
+              (QP (CD 5)
+                (CLP (M 摄氏度)))))
+          (LC 时))))))
+####
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NN ) (NN 空调))
+        (DEG 的))
+      (NP (NN 制热) (NN 效率)))
+    (VP
+      (ADVP (AD 将))
+      (ADVP (AD 大))
+      (VP (VV 打)
+        (NP (NN 折扣))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 故在)
+        (LCP
+          (NP
+            (ADJP (JJ 寒冷))
+            (NP (NN 天气)))
+          (LC 下))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 空调) (NN 制热))
+      (NP (NN 效果)))
+    (VP (VV 差)
+      (VP (VV 属)
+        (NP
+          (ADJP (JJ 正常))
+          (NP (NN 现象)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 家具) (NN 存在))
+      (NP (NN 问题)))
+    (PU ：)
+    (VP
+      (LCP
+        (NP (NN 订购) (NN 合同))
+        (LC 上))
+      (PP (P 对)
+        (NP (NN 材质)))
+      (ADVP (AD 没有))
+      (VP (VA 明确)))))
+####
+(ROOT
+  (IP
+    (NP (NR ) (NR 实木) (PU 、) (NR 贴木) (ETC 等))
+    (VP (VE 没有)
+      (IP
+        (NP
+          (NP (NN 说明书) (PU 、) (NN 甲醛))
+          (NP (NN 含量)))
+        (VP
+          (VP (VA 高))
+          (PU 、)
+          (VP (VV 售后)
+            (NP (NN 服务)))
+          (CC 与)
+          (VP (VV 明示)
+            (VP
+              (ADVP (AD 明显))
+              (ADVP (AD 不))
+              (VP (VA 一样)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 消费) (NN 疑问))
+    (PU ：)
+    (VP
+      (PP (P 通过)
+        (NP
+          (DNP
+            (PP (P 对)
+              (LCP
+                (NP (NN 室内)
+                  (CC 或)
+                  (NN 家具))
+                (LC 内)))
+            (DEG 的))
+          (NP (NN 空气))))
+      (VP
+        (VP (VV 测量)
+          (NP
+            (CP
+              (IP
+                (VP (VV 能否)
+                  (VP
+                    (ADVP (AD 直接))
+                    (VP (VV 反映)
+                      (LCP
+                        (NP (NN 家具) (NN 材质))
+                        (LC 内))))))
+              (DEC 的))
+            (NP (NN 甲醛))))
+        (VP (VV 超标))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 专家))
+    (VP (VV 解释) (PU ：)
+      (IP
+        (VP
+          (PP (P 就)
+            (LCP
+              (NP
+                (DNP
+                  (LCP
+                    (NP (NN 室内) (NN 空气))
+                    (LC 中))
+                  (DEG 的))
+                (NP (NN 甲醛)))
+              (LC 而言))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 家具))
+    (VP (VC 是)
+      (NP
+        (DNP
+          (NP (NN 甲醛))
+          (DEG 的))
+        (NP (NN 释放) (NN 源))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV ))
+      (CC 但不是)
+      (VP
+        (NP
+          (DNP
+            (ADJP (JJ 唯一))
+            (DEG 的))
+          (NP (NN 释放) (NN 源)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NN ) (NN 室内))
+        (DP (DT 其他))
+        (NP (NN 装饰)))
+      (NP (NN 材料)))
+    (VP
+      (PP (P 如)
+        (NP
+          (NP (NN 地板) (PU 、) (NN 油漆) (PU 、) (NN 涂料) (ETC 等))
+          (NP (NN 都会))))
+      (VP (VV 释放)
+        (NP (NN 甲醛))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 而且))
+    (NP (NN 甲醛))
+    (VP (VV 释放)
+      (VP
+        (PP (P 与)
+          (NP (NN 环境) (NN 温度) (PU 、) (NN 湿度)
+            (CC 和)
+            (NN 室内) (NN 空气) (NN 交换) (NN 率)))
+        (VP (VV 有关))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 所以))
+      (PP (P 通过)
+        (NP
+          (DNP
+            (PP (P 对)
+              (LCP
+                (NP (NN 室内)
+                  (CC 或)
+                  (NN 家具))
+                (LC 内)))
+            (DEG 的))
+          (NP (NN 空气))))
+      (VP (VV 测量)
+        (NP
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 不))
+                (VP (VV 能)
+                  (VP
+                    (ADVP (AD 直接))
+                    (VP (VV 反映)
+                      (NP (NN 家具) (NN 材质)))))))
+            (DEC 的))
+          (NP (NN 甲醛) (NN 含量)))))))
+####
+X

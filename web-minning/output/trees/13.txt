@@ -1,0 +1,124 @@
+(ROOT
+  (IP
+    (VP (VV 请)
+      (NP (NN 大侠))
+      (IP
+        (VP
+          (ADVP (AD 帮我))
+          (VP (VV 解决)
+            (NP
+              (DP (DT 下))
+              (NP (NN 问题)))))))))
+####
+(ROOT
+  (NP (NN ) (NN 急呀)))
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 谢谢))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 请)
+      (NP (NN 大侠) (NN 帮我))
+      (IP
+        (VP (VV 解决)
+          (NP
+            (DP (DT 下))
+            (NP (NN 问题))))))))
+####
+(ROOT
+  (NP (NN ) (NN 急呀)))
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 谢谢))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (NN 新买))
+          (DEG 的))
+        (QP (CD 2013)
+          (CLP (M 款)))
+        (ADJP (JJ 新))
+        (NP (NN qq))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 油门))
+    (VP
+      (VRD (VV 踩) (VV 下去))
+      (NP (NN 发动机))
+      (IP
+        (VP
+          (ADVP (AD 就))
+          (VP (VV 会)
+            (VP (VE 有)
+              (NP (NN 异响)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 响声))
+    (VP (VC 是)
+      (NP (PU “) (NN 哗啦啦)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP (VV 哗啦啦)))
+          (DEC 的)))
+      (PU ”))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 而且))
+      (NP (NN 油门) (NN 踏板))
+      (VP
+        (ADVP (AD 也))
+        (VP (VV 会)
+          (VP (VV 跟着)
+            (NP
+              (NP
+                (DP (DT 这))
+                (NP (NN 声音)))
+              (NP (NN 抖动)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 油门))
+    (VP
+      (ADVP (AD 一))
+      (VP (VV 放开)
+        (VP
+          (ADVP (AD 就))
+          (ADVP (AD 不))
+          (VP (VV 响了)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (CP
+        (IP
+          (NP (PN 这))
+          (VP (VC 是)
+            (NP
+              (DP (DT 什么))
+              (NP (NN 原因)))))
+        (SP 啊)))))
+####
+X

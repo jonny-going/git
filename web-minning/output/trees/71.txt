@@ -1,0 +1,67 @@
+(ROOT
+  (IP
+    (NP (NN 金科) (NN 铃木))
+    (VP
+      (LCP
+        (NP
+          (QP (CD sx4))
+          (ADJP (JJ 专用))
+          (NP (NN 塑钢)))
+        (LC 下))
+      (ADVP (AD 护板))
+      (VP
+        (VP (VV 安装)
+          (NP (NN 作业)))
+        (VP
+          (VP (VV 发动)
+            (NP (NN 机下) (NN 护板)))
+          (VP
+            (DVP
+              (VP
+                (ADVP (AD 很))
+                (VP (VA 好)))
+              (DEV 的))
+            (VP (VV 保护) (AS 了)
+              (NP
+                (ADJP (JJ 重要))
+                (NP (NN 部件))))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 个人))
+    (VP (VV 认为)
+      (IP
+        (VP
+          (PP (P 比)
+            (NP
+              (DP (DT 那)
+                (CLP (M 种)))
+              (NP (NN 金属) (NN 护板))))
+          (ADVP (AD 安全))
+          (VP (VA 多) (AS 了)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VE 没有)
+        (NP (NN 共振))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 不))
+      (VP (VV 影响)
+        (NP (NN 发动机))))
+    (VV 沉降)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 全))
+      (VP (VV 覆盖)
+        (NP (NN 设计))))))
+####
+X

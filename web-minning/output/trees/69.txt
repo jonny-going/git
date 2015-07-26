@@ -1,0 +1,135 @@
+(ROOT
+  (CP
+    (IP
+      (VP (VV 粗大)
+        (NP (NN 事))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 景逸) (NN 和悦))
+      (NP (NN rs)))
+    (NP (PN 我))
+    (VP (VV 选择)
+      (NP (PN 谁)))))
+####
+X
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP
+          (ADJP (JJ 粗大))
+          (NP (NN 事)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 景逸) (NN 和悦))
+      (NP (NN rs)))
+    (NP (PN 我))
+    (VP (VV 选择)
+      (NP (PN 谁)))))
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 纠结呐)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 知道)
+        (IP
+          (VP (VV 买)
+            (NP (PN 哪个))))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP
+        (DNP
+          (NP (NN ) (NN 外观) (NN 景逸))
+          (DEG 的))
+        (NP (NN 顶)))
+      (VP (VC 是)
+        (NP
+          (DNP
+            (NP (NN 弯))
+            (DEG 的))
+          (ADJP (JJ 老))
+          (NP
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 不))
+                  (VP (VV 适应)
+                    (NP (NN 和悦)))))
+              (DEC 的))
+            (QP (CD 好些))
+            (NP (NN 先)))
+          (NP (NN 上图)))))
+    (NP
+      (CP
+        (IP
+          (VP (VV 做工)
+            (NP (NN 和悦) (NN rs))))
+        (DEC 的)))
+    (VP (VV 做工)
+      (VP
+        (ADVP (AD 实在))
+        (VP (VA 差劲))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP (VV )
+              (NP (NN 东风))))
+          (DEC 的)))
+      (VP (VV 要)
+        (VP
+          (DVP
+            (VP (VA 好))
+            (DEV 的))
+          (VP (VA 多) (AS 了)))))
+    (IP
+      (NP (NN 关键))
+      (VP (VC 是)
+        (VP
+          (PP (P 和)
+            (IP
+              (VP (VV 悦)
+                (NP (NN rs)))))
+          (VP (VE 有)
+            (NP
+              (CP
+                (IP
+                  (VP (VV 生锈)))
+                (DEC 的)))))))
+    (IP
+      (NP (PN 我))
+      (VP
+        (PP (P 靠)
+          (NP
+            (NP (NN 内饰) (NN [))
+            (DP (DT 本))
+            (NP (NN 帖))))
+        (ADVP (AD 最后))
+        (PP (P 由)
+          (NP (NN aaaacn)))
+        (PP (P 于)
+          (NP
+            (QP (CD 2013-06-30))
+            (QP (CD 23:10:38))
+            (NP (NN 编辑))))
+        (VP (VV ]))))))

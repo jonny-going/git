@@ -1,0 +1,44 @@
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (VP (VV 提车) (AS 了)
+              (NP
+                (QP (CD 4))
+                (NP (NN s))))
+            (VP (VV 送))))
+        (DEC 的))
+      (NP (NN 地胶)
+        (CC 和)
+        (NN 贴膜)))
+    (VP
+      (ADVP (AD 要还))
+      (VP (VC 是)
+        (NP (NR 不要····))))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(X (XX ) (XX 买车) (XX 是) (XX 谈) (XX 的) (XX 送) (XX 导航) (XX 全) (XX 车膜) (XX 地) (XX 胶) (XX 底) (XX 盘) (XX 装甲) (XX 发动机) (XX 护板) (XX 4) (XX s) (XX 说) (XX 君威) (XX 发动机) (XX 下沉) (XX 功能) (XX 装) (XX 护板) (XX 不好) (XX 就) (XX 没) (XX 装) (XX 导航) (XX 已经) (XX 装上) (XX 连个) (XX 牌子) (XX 都) (XX 没) (XX （) (XX 我) (XX 去年) (XX 买) (XX 了) (XX 个) (XX 表) (XX ）) (XX 倒车) (XX 影像) (XX 更) (XX 垃圾) (XX （) (XX 打算) (XX 自己) (XX 买个) (XX 摄像头) (XX 换了) (XX ）) (XX 今天) (XX 通知) (XX 我) (XX 让) (XX 我) (XX 7) (XX 号) (XX 过去) (XX 贴) (XX 膜) (XX 装) (XX 地) (XX 胶) (XX 装甲) (XX 现在) (XX 犹豫) (XX 了) (XX 送) (XX 的) (XX 东西) (XX 都) (XX 没) (XX 好货) (XX 到底) (XX 装) (XX 还是) (XX 不) (XX 装) (XX 各位) (XX 支支) (XX 招))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP (NN ))
+          (VP
+            (ADVP (AD 不))
+            (VP (VV 装))))
+        (DEC 的))
+      (NP (NN 东西)))
+    (VP (VV 估计)
+      (IP
+        (VP
+          (ADVP (AD 不))
+          (VP (VV 给)
+            (VP (VV 折现)
+              (NP (NR 吧····)))))))))

@@ -1,0 +1,243 @@
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD 前几天))
+        (VP (VV 发帖)
+          (NP (NN 新车)))))
+    (IP
+      (VP (SB 被)
+        (VP (VV 撞))))
+    (IP
+      (VP
+        (ADVP (AD 差点))
+        (VP (VV 送命))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP
+        (VP
+          (ADVP (AD 原来))
+          (VP (VC 是)
+            (NP (NN 车门))))
+        (VP
+          (VP (VV 防)
+            (NP (NN 撞杆)))
+          (VP (VV 救) (AS 了)
+            (NP (PN 我)))))
+      (VP
+        (PP (P 当)
+          (LCP
+            (IP
+              (NP (NN 汽车))
+              (VP (VV 受到)
+                (NP (NN 侧面) (NN 撞击))))
+            (LC 时)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 车门))
+    (VP
+      (ADVP
+        (ADVP (AD 很))
+        (ADVP (AD 容易)))
+      (VP
+        (VP (VV 受到)
+          (NP (NN 冲击)))
+        (VP (MSP 而)
+          (VP (VV 变形)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 从而))
+      (ADVP (AD 直接))
+      (VP
+        (VRD (VV 伤害) (VV 到))
+        (NP (NN 车内) (NN 乘员))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (PP (P 为了)
+            (IP
+              (VP (VV 提高)
+                (NP (NN 汽车)))))
+          (DEG 的))
+        (NP (NN 安全) (NN 性能))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP (CD 不少))
+      (NP (NN 汽车) (NN 公司)))
+    (VP
+      (ADVP (AD 就))
+      (PP (P 在)
+        (LCP
+          (NP
+            (NP (NN 汽车))
+            (QP (CD 两)
+              (CLP (M 侧)))
+            (NP (NN 门) (NN 夹层)))
+          (LC 中间)))
+      (VP (VV 放置)
+        (NP
+          (QP
+            (QP (CD 一))
+            (QP (CD 两)
+              (CLP (M 根))))
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 非常))
+                (VP (VA 坚固))))
+            (DEC 的))
+          (NP (NN 钢梁)))))))
+####
+(ROOT
+  (IP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 这))
+      (VP
+        (ADVP (AD 就))
+        (VP (VC 是)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 常))
+                  (VP (VV 说))))
+              (DEC 的))
+            (NP (NN 侧门))))))
+    (VP (VV 防)
+      (NP (NN 撞杆)))))
+####
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NN ) (NN 防撞杆))
+        (DEG 的))
+      (ADJP (JJ 防撞))
+      (NP (NN 作用)))
+    (VP (VC 是) (PU ：)
+      (IP
+        (VP
+          (PP (P 当)
+            (LCP
+              (IP
+                (VP
+                  (ADVP (AD 侧门))
+                  (VP (VV 受到)
+                    (NP (NN 撞击)))))
+              (LC 时))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (ADVP (AD ))
+            (VP (VA 坚固))))
+        (DEC 的))
+      (NP (NN 防撞杆)))
+    (VP (VV 能)
+      (VP
+        (ADVP (AD 大大))
+        (VP (VV 减轻)
+          (NP
+            (DNP
+              (NP (NN 侧门))
+              (DEG 的))
+            (ADJP (JJ 变形))
+            (NP (NN 程度))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 从而))
+      (VP (VV 能)
+        (VP (VV 减少)
+          (NP
+            (CP
+              (IP
+                (NP (NN 汽车))
+                (VP (VV 撞击)
+                  (PP (P 对)
+                    (NP (NN 车内) (NN 乘员)))))
+              (DEC 的))
+            (NP (NN 伤害))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (NP
+          (CP
+            (IP
+              (NP (PN 我))
+              (VP (VV 买)))
+            (DEC 的))
+          (ADJP (JJ 自动))
+          (NP (NN 运动))))
+      (VP (VE 没有)
+        (NP (NN 侧) (NN 气囊))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 幸亏))
+      (VP (VE 有)
+        (NP (PN 它))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP
+        (NP (NR ))
+        (NP (NN 同事)))
+      (VP
+        (VP (VV 建议)
+          (IP
+            (VP
+              (ADVP (AD 后来))
+              (VP (VV 购买)
+                (NP
+                  (QP (CD v5))
+                  (NP (NN 者)))))))
+        (VP
+          (ADVP (AD 还是))
+          (VP (VV 选择)
+            (NP
+              (CP
+                (IP
+                  (VP
+                    (ADVP (AD 自动))
+                    (VP (VA 豪华))))
+                (DEC 的))
+              (NP (NN 吧) (NN [)))))))
+    (IP
+      (NP
+        (DP (DT 本))
+        (NP (NN 帖)))
+      (VP
+        (ADVP (AD 最后))
+        (PP (P 由)
+          (NP (NN gdlguo)))
+        (PP (P 于)
+          (NP
+            (QP (CD 2013-06-30))
+            (QP (CD 23:11:13))
+            (NP (NN 编辑))))
+        (VP (VV ]))))))

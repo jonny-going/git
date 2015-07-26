@@ -1,0 +1,126 @@
+(ROOT
+  (IP
+    (VP (VV 问)
+      (NP
+        (DNP
+          (NP
+            (NP
+              (CP
+                (IP
+                  (VP
+                    (ADVP (AD 一下))
+                    (VP (VV 纠结) (AS 过)
+                      (NP (NN 指南))))))
+              (NP (NN 者)))
+            (CC 和)
+            (NP (NN 翼) (NN 虎)))
+          (DEG 的))
+        (NP (NN 通知)))
+      (IP
+        (VP
+          (NP (NT 今天))
+          (VP (VV 看) (AS 了)
+            (NP
+              (NP
+                (NP (NR 现车) (NN 翼) (NN 虎))
+                (QP (CD 16))
+                (NP (NN 风尚)))
+              (CC 和)
+              (NP
+                (NP (NT 24))
+                (NP (NN 炫) (NN 黑))))))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我))
+    (VP (VV 想)
+      (IP
+        (VP (VV 买)
+          (NP
+            (DNP
+              (NP
+                (NP (NT 24))
+                (NP (NN 运动)))
+              (DEG 的))))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NR ))
+      (VP (VV 说)
+        (NP (NN 实话))))
+    (IP
+      (LCP
+        (NP (NN 配置))
+        (LC 上))
+      (LCP
+        (NP (NN 空间))
+        (LC 上))
+      (NP (NN 指南) (NN 者))
+      (VP (VV 完败)))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NN ))
+      (VP (VV 坐)
+        (NP (NN 里边) (NN 翼))))
+    (IP
+      (NP (NN 虎))
+      (VP
+        (PP (P 比)
+          (NP (NN 指南) (NN 者)))
+        (VP (VA 舒服))))))
+####
+(ROOT
+  (IP
+    (IP
+      (ADVP (AD ))
+      (ADVP (AD 但))
+      (VP
+        (ADVP (AD 就))
+        (VP (VC 是)
+          (NP (NN 不知道)))))
+    (IP
+      (QP (CD 四))
+      (VP (VV 驱)
+        (NP (NN 系统))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 底盘))
+    (VP (VV 悬挂)
+      (ADVP (AD 如何)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ))
+      (ADJP (JJ 越野))
+      (CP
+        (IP
+          (VP
+            (ADVP (AD 就))
+            (VP (VV 肯定)
+              (NP (NN 指南))))))
+      (NP (NN 者)))
+    (VP (VA 好))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VE 有)
+          (IP
+            (NP
+              (ADJP (JJ 大))
+              (NP (NN 神)))
+            (VP (VV 传授)
+              (NP
+                (DP (DT 下))
+                (NP (NN 心得))))))))
+    (SP 吗)))
+####
+X

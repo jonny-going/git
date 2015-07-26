@@ -1,0 +1,105 @@
+(ROOT
+  (IP
+    (NP
+      (DP (DT 各位)
+        (QP (CD 13)
+          (CLP (M 款))))
+      (NP (NN c)))
+    (QP (CD 50))
+    (VP (VV 请进))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (VP (VE 有)
+          (NP (NN 问题)))
+        (VP (VV 请教)
+          (NP
+            (CP
+              (IP
+                (VP (VV 请)
+                  (VP (VV 问)
+                    (NP (PN 各位)))))
+              (DEC 的))
+            (DNP
+              (QP (CD 13)
+                (CLP (M 款)))
+              (DEG 的))
+            (QP (CD c50))
+            (NP (NN 灯) (NN 光亮))))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 近光) (NN 灯))
+    (VP (VV 能)
+      (VP (VV 照)
+        (VP
+          (ADVP (AD 多))
+          (VP (VA 远)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 远光灯))
+        (VP (VA 亮))))
+    (SP 吗)))
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DNP
+        (NP (PN 我))
+        (DEG 的))
+      (NP (NN 车)))
+    (NP
+      (ADVP (AD 近))
+      (ADVP (AD 光))
+      (NP (NN 灯)))
+    (VP
+      (ADVP (AD 只))
+      (VP
+        (VSB (VV 能) (VV 看到))
+        (IP
+          (QP
+            (QP (CD 两))
+            (QP (CD 三)
+              (CLP (M 米))))
+          (VP (VA 远)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 远光灯))
+    (VP
+      (ADVP (AD 根本))
+      (ADVP (AD 不))
+      (VP (VA 亮)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 请)
+      (VP (VV 问)
+        (CP
+          (IP
+            (VP
+              (ADVP (AD 怎么))
+              (VP (VV 调试))))
+          (SP 呢))))))
+####
+X
+####
+X
+####
+X
+####
+X

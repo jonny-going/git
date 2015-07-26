@@ -1,0 +1,162 @@
+(ROOT
+  (CP
+    (IP
+      (NP
+        (DNP
+          (NP (NN 新桑))
+          (DEG 的))
+        (NP (NN 车主们)))
+      (NP
+        (DNP
+          (NP (PN 你们))
+          (DEG 的))
+        (NP (NN 玻璃)))
+      (VP (VV 晃荡)))
+    (SP 吗)))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP (NN 车子))
+        (NP
+          (QP
+            (QP (CD 一)
+              (CLP (M 个)))
+            (ADVP (AD 多)))
+          (NP (NN 月)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 还))
+      (ADVP (AD 真))
+      (VP (VV 出现)
+        (NP
+          (DNP
+            (NP
+              (NP
+                (NP
+                  (DP (DT 有的))
+                  (NP (NN 哥们)))
+                (NP (NN 说的)))
+              (NP (NN 玻璃) (NN 晃荡)))
+            (DEG 的))
+          (NP (NN 情况)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DNP
+        (NP (PN 我))
+        (DEG 的))
+      (CP
+        (IP
+          (VP (VC 是)
+            (NP (NN 副驾驶))))
+        (DEC 的))
+      (NP (NN 车窗)))
+    (VP (VV 打开)
+      (NP (NN 半截)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADJP (JJ 晃荡))
+      (NP (NN 玻璃)))
+    (VP (VE 有)
+      (NP
+        (DNP
+          (ADJP (JJ 明显))
+          (DEG 的))
+        (NP (NN 松动))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 关门)
+      (VP (VE 有)
+        (NP
+          (CP
+            (IP
+              (NP (NN 玻璃))
+              (VP (VV 晃)))
+            (DEC 的))
+          (NP (NN 声音)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DP (DT 其他)
+        (QP (CD 三)
+          (CLP (M 个))))
+      (NP (NN 车窗)))
+    (VP (VV 没事))))
+####
+(ROOT
+  (IP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 我))
+      (VP (VV 见)
+        (NP
+          (CP
+            (IP
+              (NP
+                (DP (DT 另)
+                  (QP (CD 一)
+                    (CLP (M 个))))
+                (NP (NN 车主)))
+              (VP (VV 发)))
+            (DEC 的))
+          (NP (NN 帖子)))))
+    (IP
+      (NP
+        (CP
+          (IP
+            (NP (PN 大家))
+            (VP
+              (PP (P 跟)
+                (NP (NN 当事者)))
+              (VP (VV 回答))))
+          (DEC 的)))
+      (VP
+        (ADVP (AD 很))
+        (VP (VA 含糊))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 想问))
+    (NP (PN 大家))
+    (VP (VV 遇到)
+      (NP (PN 这样)))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 怎么))
+        (VP (VV 处理))))
+    (SP 的)))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (NP (NR ))
+        (QP (CD 4))
+        (NP (NN s)))
+      (VP
+        (PP (P 跟)
+          (NP (NN 外面)))
+        (VP (VV 能)
+          (VP (VV 修)))))
+    (SP 吗)))
+####
+X

@@ -1,0 +1,79 @@
+(ROOT
+  (NP
+    (DNP
+      (NP
+        (NP
+          (QP (CD 13)
+            (CLP (M 款)))
+          (NP (NN c)))
+        (QP (CD 30))
+        (NP (NN 车速)
+          (CC 与)
+          (NN 转速)))
+      (DEG 的))
+    (NP (NN 问题))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (PN 我))
+          (DEG 的))
+        (ADJP (JJ 小))
+        (QP (CD 3))
+        (CP
+          (IP
+            (VP
+              (ADVP (AD 好像))
+              (ADVP (AD 很))
+              (VP (VV 费力)
+                (IP
+                  (NP (PN 我))
+                  (VP
+                    (ADVP (AD 刚))
+                    (VP (VV 提了)
+                      (QP
+                        (QP (CD 一)
+                          (CLP (M 辆)))
+                        (QP (CD 13)
+                          (CLP (M 款))))))))))
+          (DEC 的))
+        (NP
+          (NP (NR 长城))
+          (NP (NN c))))
+      (QP (CD 30)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 车速))
+    (VP (VV 跑到)
+      (LCP
+        (QP (CD 70))
+        (LC 时)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 加速))
+      (VP (AD 就)
+        (IP
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 比较))))
+            (VV 费力)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 为什么))
+        (ADVP (AD 难道))
+        (VP (VE 有)
+          (NP (NN 新车) (NN 限速)))))
+    (SP 吗)))
+####
+X

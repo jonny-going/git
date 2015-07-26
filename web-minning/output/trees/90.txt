@@ -1,0 +1,196 @@
+(ROOT
+  (NP
+    (DNP
+      (NP
+        (NP
+          (ADJP (JJ 手动))
+          (NP (NN 档)))
+        (NP (NN 朗动)))
+      (DEG 的))
+    (NP (NN 技术) (NN 问题))))
+####
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP
+          (NP (NR ))
+          (DP (DT 所有))
+          (ADJP (JJ 手动))
+          (NP (NN 档)))
+        (DEG 的))
+      (NP (NN 朋友)))
+    (VP (VV 请)
+      (VP (VV 回答)))))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 为什么)
+      (NP
+        (NP
+          (ADJP (JJ 手动))
+          (NP (NN 档)))
+        (QP (CD 6)
+          (CLP (M 个)))
+        (NP (NN 档))))))
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 当)
+        (LCP
+          (IP
+            (VP
+              (PP (P 用)
+                (NP (NT 5) (NN 档)))
+              (VP (VV 走)
+                (NP (NN 高速)))))
+          (LC 时))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 速度))
+    (VP
+      (QP (CD 120))
+      (ADVP (AD 还))
+      (ADVP (AD 很))
+      (VP (VA 稳)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP (PN 我))
+        (DNP
+          (ADJP (JJ 同样))
+          (DEG 的))
+        (NP (NN 速度)))
+      (QP (CD 120)))))
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 用)
+        (QP (CD 6)
+          (CLP (M 档))))
+      (VP (VV 跑)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (ADJP (JJ 同样))
+          (DEG 的))
+        (NP (NN 路))))))
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 为什么))
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 车子))
+          (VP (VV 发飘)))))))
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 手))
+    (VP (VV 要)
+      (VP
+        (DVP
+          (ADVP (AD 用力))
+          (VP (VV 抓住)))
+        (VP
+          (NP (NN 方向)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (LCP
+          (NP
+            (ADJP (JJ 总))
+            (NP (NN 感觉)))
+          (LC 左右)))
+      (VP (VV 会)
+        (VP (VV 动))))))
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (IP
+        (ADVP (AD 而))
+        (LCP
+          (QP (CD 5)
+            (CLP (M 档)))
+          (LC 时))
+        (VP
+          (ADVP (AD 就))
+          (ADVP (AD 不))
+          (VP (VV 会)))))))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X

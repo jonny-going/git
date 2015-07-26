@@ -1,0 +1,95 @@
+(ROOT
+  (IP
+    (CP
+      (IP
+        (NP
+          (DNP
+            (NP (NN 睿翼))
+            (DEG 的))
+          (NP (NN 后备箱) (NN 锁)))
+        (VP (VA 坏)))
+      (SP 了))
+    (IP
+      (DP (DT 前)
+        (QP (CD 两)
+          (CLP (M 天))))
+      (NP (NR 上海))
+      (VP (VV 下雨)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 可能))
+      (VP (VE 有)
+        (NP
+          (NP
+            (DP (DT 什么))
+            (NP (NN 地方)))
+          (NP (NN 漏水)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 导致)
+        (IP
+          (NP (NN 后备箱) (NN 锁))
+          (VP (VA 坏) (AS 了)))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 幸好))
+    (NP (NN 还在))
+    (VP (VV 保内))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VA 差)
+        (QP (CD 几)
+          (CLP (M 天))))
+      (VP (VV 出)
+        (NP (NR 保))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 去)
+      (VP
+        (ADVP (AD ssss))
+        (VP (VV 换) (AS 了)
+          (QP
+            (CLP (M 个))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 顺便))
+      (VP (VV 看) (AS 了)
+        (NP
+          (DNP
+            (NP (NN 马自达))
+            (DEG 的))
+          (NP (NN suv)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (CP
+        (IP
+          (VP (VV 要)
+            (QP (CD 43w))))
+        (SP 了)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 大家))
+    (VP (VV 会)
+      (VP (VV 买么)))))
+####
+X

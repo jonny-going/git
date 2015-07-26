@@ -1,0 +1,1294 @@
+(ROOT
+  (IP
+    (VP
+      (QP (CD 18万))
+      (VP (VV 买)
+        (NP
+          (QP (CD 2013)
+            (CLP (M 款)))
+          (NP (NR 雪铁龙))
+          (NP (NN c)))
+        (QP
+          (QP (CD 5))
+          (QP (CD 2)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (QP (CD 0l))
+        (ADJP (JJ 自动))
+        (NP (NN 尊享)))
+      (NP (NN 版)))
+    (VP (VV 值)
+      (NP (NN 不值)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (QP (CD 18万))
+    (VP (VV 买)
+      (QP
+        (NP
+          (QP (CD 2013)
+            (CLP (M 款)))
+          (NP (NR 雪铁龙))
+          (NP (NN c)))
+        (QP (CD 5) (CD 2))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (QP (CD 0l))
+        (ADJP (JJ 自动))
+        (NP (NN 尊享)))
+      (NP (NN 版)))
+    (VP (VV 值)
+      (IP
+        (VP
+          (ADVP (AD 不))
+          (VP (VV 值)))))))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 2013年) (NT 06月) (NT 29日))
+    (VP (VV 去)
+      (VP (VV 东雪)
+        (NP
+          (NP
+            (NP
+              (QP (CD 4))
+              (NP (NN s)))
+            (NP (NN 店)))
+          (NP (NN 看车)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 本来))
+      (VP (VC 是)
+        (PP (P 冲着)
+          (QP (CD c4l)))))))
+####
+(ROOT
+  (FRAG (NN ) (CD 1)))
+####
+(ROOT
+  (FRAG
+    (QP (CD 8l))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 自动))
+      (VP (VV 劲智版)
+        (NP
+          (CP
+            (IP
+              (VP (VV 去)))
+            (DEC 的)))))))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 早上))
+    (VP (VV 打)
+      (NP (NN 电话))
+      (PP (P 给)
+        (NP
+          (NP
+            (QP (CD 4))
+            (NP (NN s)))
+          (NP (NN 店)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 问)
+      (NP (NN 下有))
+      (IP
+        (VP
+          (ADVP (AD 没))
+          (VP (VE 有)
+            (IP
+              (NP
+                (DNP
+                  (NP
+                    (DP (DT 该))
+                    (NP (NN 版本)))
+                  (DEG 的))
+                (NP (NN 试)))
+              (VP (VV 驾车)))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP (CD 4))
+      (NP (NN s)))
+    (VP (VV 说)
+      (IP
+        (VP (VE 有)
+          (QP
+            (CLP (M 个))
+            (QP (CD 1))))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 8l))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (VP (VV )
+          (NP
+            (ADJP (JJ 自动))
+            (NP (NN 劲))))
+        (VP (VV 驰)
+          (NP (NN 版)))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 觉得)
+      (IP
+        (VP
+          (ADVP (AD 反正))
+          (ADVP (AD 就))
+          (VP
+            (VPT (VV 试驾) (AD 也) (VV 可以))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 本想))
+    (VP
+      (NP (NT 当天) (NT 下午))
+      (IP
+        (VP (VV 去)
+          (NP
+            (QP (CD 4))
+            (NP (NN s)))))
+      (VP (VV 试驾)
+        (ADVP (AD 一下))))))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 等我) (NT 下午))
+    (VP
+      (DVP
+        (VP (VA 兴冲冲))
+        (DEV 地))
+      (VP (VV 跑到)
+        (NP
+          (NP
+            (QP (CD 4))
+            (NP (NN s)))
+          (NP (NN 店)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 问)
+      (IP
+        (VP
+          (ADVP (AD 试))
+          (VP (VV 驾车)
+            (NP (NN 事宜))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 店员))
+    (VP (VV 回答)
+      (IP
+        (NP (NN 车))
+        (VP
+          (VP (LB 被)
+            (IP
+              (NP (NN 经理))
+              (VP
+                (VRD (VV 开) (VV 出去)))))
+          (VP (VV 开会) (AS 了)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 不知道))
+      (DP (DT 什么))
+      (NP (NN 时候)))
+    (VP (VV 能)
+      (VP (VV 回来)))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 说)
+      (IP
+        (VP (VE 有)
+          (QP (CD 1)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP
+            (QP (CD 6t))
+            (NP (NN 劲)))
+          (VP (VV 享)))
+        (DEC 的)))
+    (VP (VV 可以)
+      (VP (VV 试驾)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 就))
+      (VP (VV 试驾) (AS 了)
+        (NP (NN 该车))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 说)
+      (NP (NN 实话)))))
+####
+(ROOT
+  (IP
+    (NP
+      (ADJP (JJ ))
+      (NP (NN 动力)))
+    (VP (VV 无可挑剔))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (LCP
+        (NP
+          (DP (DT 该))
+          (NP (NN 级别)))
+        (LC 当中))
+      (VP (VV 比较)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 但是))
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 还是))
+        (ADVP (AD 比较))
+        (VP (VV 喜欢))))))
+####
+(ROOT
+  (FRAG (NN ) (CD 1)))
+####
+(ROOT
+  (CP
+    (IP
+      (QP (CD 8))
+      (VP
+        (ADVP (AD 自动))
+        (VP (VV 劲智))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 问) (AS 了)
+      (NP
+        (DP (DT 下))
+        (NP (NN 价格))))))
+####
+(ROOT
+  (FRAG (NN ) (CD 1)))
+####
+(ROOT
+  (NP
+    (QP (CD 8l))
+    (ADJP (JJ 自动))
+    (NP (NN 劲智))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADJP
+        (ADVP (AD 最))
+        (ADJP (JJ 低)))
+      (NP (NN 最低)))
+    (VP (VV 能)
+      (VP (VV 做到)
+        (QP (CD 17))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 2万))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 包牌))
+      (VP (VV 包)
+        (NP (NN 保险))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (ADVP (AD 其实)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DP (DT 该)
+          (CLP (M 款)))
+        (NP (NN 价格))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 已))
+        (VP (VE 有)
+          (NP (NN 心里) (NN 准备)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP
+      (ADVP (AD 也))
+      (VP (VV 表示)
+        (IP
+          (VP (VV 能)
+            (VP (VV 接受))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 但))
+      (VP (VV 要)
+        (VP
+          (ADVP (AD 先))
+          (VP (VV 看看)
+            (IP
+              (VP
+                (ADVP (AD 试))
+                (VP (VV 驾车))))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (PP (P 因为)
+            (IP
+              (NP (PN 我))
+              (VP
+                (ADVP (AD 还没))
+                (VP (VV 见) (AS 过)
+                  (NP
+                    (CP
+                      (IP
+                        (NP (PN 我))
+                        (VP (VV 想)
+                          (IP
+                            (VP (VV 买)))))
+                      (DEC 的))
+                    (DP (DT 那个))
+                    (NP (NN 车)))))))
+          (DEG 的))
+        (NP (NN 内饰))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 只))
+      (VP (VV 见) (AS 过)
+        (IP
+          (VP
+            (DVP
+              (VP (VA 带t))
+              (DEV 的))
+            (VP (VV 跟)
+              (QP (CD 1)))))))))
+####
+(ROOT
+  (FRAG
+    (NP
+      (DNP
+        (NP
+          (QP (CD 6))
+          (ADJP (JJ 小))
+          (NP (NN 排量)))
+        (DEG 的)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 遂))
+      (ADVP (AD 边))
+      (VP (VV 谈)
+        (NP (NN 价格))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 边))
+      (VP (VV 看到)
+        (QP
+          (DNP
+            (NP (NN 旁边))
+            (DEG 的))
+          (QP (CD c5)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (NN 同去))
+          (DEG 的))
+        (NP (NN 家人))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (DNP
+          (NP (NN 看了) (NN 旁边))
+          (DEG 的))
+        (QP (CD c5))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 觉得)
+        (IP
+          (QP (CD c5))
+          (VP
+            (ADVP (AD 比较))
+            (VP (VA 大气))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 而且))
+      (NP (NN 空间))
+      (VP
+        (ADVP (AD 也))
+        (VP (VA 大))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 也))
+      (VP (VV 想)
+        (IP
+          (NP (NN 试驾))
+          (VP
+            (ADVP (AD 一下))
+            (VP (VV c)
+              (QP (CD 5)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 试)
+        (IP
+          (VP (VV 驾)
+            (NP (NN 不要紧))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 一))
+      (VP (VV 试)
+        (IP
+          (VP
+            (VRD (VV 驾) (VV 下来))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (NP (NN 家人)))
+    (VP
+      (ADVP (AD 都))
+      (ADVP (AD 铁了心))
+      (VP (VV 觉得)
+        (IP
+          (VP (VV c)
+            (QP
+              (QP (CD 5)
+                (CC 比)
+                (CD c4l爽))
+              (QP (CD 很多)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (QP
+      (ADJP (JJ 主要))
+      (QP (CD 一)
+        (CLP (M 点))))
+    (VP (VC 是) (PU ：)
+      (IP
+        (VP (VA 舒适))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 但))
+      (VP (VV 问) (AS 了)
+        (NP
+          (DP (DT 下))
+          (NP (NN 价格) (NN 几何)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 店员))
+    (VP (VV 说))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD 2)))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 0))
+      (ADJP (JJ 自动))
+      (NP (NN 尊)))
+    (VP (VV 享版))))
+####
+(ROOT
+  (FRAG
+    (NP
+      (NP (NN ))
+      (QP (CD 包牌)
+        (CLP (M 包)))
+      (NP (NN 保险)))
+    (QP (CD 19万))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 这样))
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 徘徊)
+          (PP (P 在)
+            (LCP
+              (NP
+                (QP (CD 两)
+                  (CLP (M 个)))
+                (NP (NN 车)))
+              (LC 之间))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (QP (CD 一)
+          (CLP (M 个)))
+        (QP (CD 17))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 2万))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (QP (CD 一)
+          (CLP (M 个)))
+        (QP (CD 19))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 5万))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 差)
+        (QP (CD 两万多)
+          (CLP (M 点)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 对于)
+        (LCP
+          (NP
+            (NP (PN 我) (ETC 等))
+            (NP (NN 工薪) (NN 阶层)))
+          (LC 来说))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (DP (DT 这)
+        (QP (CD 两万)))
+      (ADVP (AD 有点))
+      (VP (VA 难)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (ADVP (AD 其实)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 对于)
+        (NP (PN 我)))
+      (ADVP (AD 本来))
+      (VP (MSP 来)
+        (VP (VV 开))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 在)
+        (NP (NN 市区)))
+      (VP (VV 开)))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 我))
+      (VP (VC 是)
+        (VP (VV 喜欢)
+          (QP (CD c4l)))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 车小)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VA 灵活)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD c5)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 车))
+          (VP
+            (ADVP (AD 好))
+            (VP (VA 大))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 找个) (NN 停车位))
+    (VP
+      (ADVP (AD 都))
+      (ADVP (AD 不))
+      (VP (VV 好找)))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 但))
+    (VP
+      (ADVP (AD 又))
+      (VP (VV 考虑)
+        (NP (NN 家里))))
+    (FLR
+      (VP (VE 没有)
+        (NP
+          (QP
+            (CLP (M 辆)))
+          (ADJP (JJ b级))
+          (NP (NN 车)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (NP (NN 过年)))
+      (VP
+        (VP (VV 回)
+          (NP (NN 老家)))
+        (VP (VV 走)
+          (NP (NN 高速)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 老是))
+      (VP (VV 要)
+        (VP (VV 开)
+          (NP
+            (DNP
+              (NP (NT 以前))
+              (DEG 的))
+            (ADJP (JJ 开迪))
+            (NP (NN 车))))))
+    (PRN (PU （)
+      (CP
+        (IP
+          (NP
+            (DP (DT 这个))
+            (NP (NN 车)))
+          (VP (VV 估计)
+            (IP
+              (NP
+                (QP (CD 很少))
+                (NP (NN 人)))
+              (VP (VV 知道) (AS 了)))))
+        (SP 吧))
+      (PU ）))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 也))
+      (VP (VV 不)
+        (NP (NN 气派))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 而且))
+      (QP (CD c5))
+      (VP
+        (ADVP (AD 更))
+        (VP (VV 能)
+          (VP (VV 满足)
+            (NP (NN 家庭) (NN 需要))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 权衡)
+        (ADVP (AD 再三))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (IP
+          (VP
+            (PP (P 跟)
+              (NP (NN 家人)))
+            (VP (VV 商量) (AS 了))))
+        (LC 下)))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 要)
+          (QP (CD c5)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP (VV 接下来)))
+          (DEC 的))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DP (DT 整个))
+        (NP (NT 下午))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 就是))
+    (VP
+      (PP (P 跟)
+        (NP (NN 店员)))
+      (VP (MSP 来)
+        (VP (VV 谈)
+          (NP (NN 价格)))))
+    (FLR (SP 了))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 砍) (AS 了)
+        (NP
+          (QP (CD 两)
+            (CLP (M 个)))
+          (NP (NN 小时)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 砍到) (AS 了)
+        (QP (CD 19万))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 然后))
+      (ADVP (AD 再))
+      (VP (VV 磨)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 磨)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 磨)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 磨)
+      (PP (P 到)
+        (NP (NT 最后) (NT 18))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 5万))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我们))
+    (VP
+      (ADVP (AD 还是))
+      (ADVP (AD 不))
+      (VP (VV 满足)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 销售) (NN 店员))
+    (VP (VE 没)
+      (NP (NN 办法)))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 最后))
+        (VP (BA 把)
+          (IP
+            (NP
+              (DNP
+                (NP (PN 他))
+                (DEG 的))
+              (ADJP (JJ 上级))
+              (NP (NN 经理)))
+            (VP (VV 请来) (AS 了)
+              (QP (CD 一)
+                (CLP (M 起))))))))
+    (VP (VV 谈))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 经理))
+    (VP
+      (ADVP (AD 一))
+      (VP (VV 来)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 了解) (AS 了)
+        (NP
+          (DP (DT 下))
+          (NP (NN 情况)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 知道)
+        (IP
+          (NP (PN 我们))
+          (VP (VC 是)
+            (NP
+              (CP
+                (IP
+                  (VP
+                    (ADVP (AD 真心))
+                    (VP (VV 要)
+                      (VP (VV 买)
+                        (NP (NN 车))))))
+                (DEC 的)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 又))
+      (VP (VV 降) (AS 了)
+        (QP (CD 1千))))))
+####
+(ROOT
+  (FRAG (NN ) (CD 18)))
+####
+(ROOT
+  (FRAG
+    (QP (CD 4万))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我们))
+    (VP (VV 知道))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VE 有)
+          (NP (NN 戏)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 又))
+      (VP (VV 开始)
+        (VP (VV 软硬兼施))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 最后))
+      (VP (VV 磨)
+        (VP (VV 到) (AS 了)
+          (NP
+            (ADJP (JJ 如下))
+            (NP (NN 价格))))))
+    (PU ：)
+    (PRN
+      (IP
+        (IP
+          (NP (NN 包) (NN 牌))
+          (VP (VV 包)
+            (NP (NN 保险))))
+        (PU ：)
+        (IP
+          (NP
+            (QP (CD 18万))
+            (CP
+              (IP
+                (VP (VV 送)))
+              (DEC 的))
+            (NP (NN 东西)))
+          (VP (VV 如下) (PU ：)
+            (NP
+              (NP
+                (ADJP (JJ 原))
+                (NP (NN 厂)))
+              (NP (NN 雷朋) (NN 防爆膜)))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 地毯)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 挡泥板)))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD ))
+      (NP (NN 头)))
+    (VP (VV 枕))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 抱枕)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 方向盘) (NN 锁)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV gps)
+      (NP (NN 导航)))
+    (PRN (PU （)
+      (IP
+        (VP (VV 带)
+          (VP (VV 倒车)
+            (NP (NN 影像)))))
+      (PU ）))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 镀)
+        (NP
+          (NP (NR 鉻))
+          (ADJP (JJ 前))
+          (NP (NN 中网)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NR ))
+        (QP (CD 4))
+        (NP (NN s)))
+      (NP (NN 店)))
+    (VP
+      (NP (NN 洗车))
+      (ADVP (AD 免费))
+      (PU （)
+      (NP (NN 店))
+      (PP (P 在)
+        (NP (NN 洗车)))
+      (VP (VV 免费)))))
+####
+(ROOT
+  (IP
+    (VP (VV ) (PU ）)
+      (NP
+        (CP
+          (IP
+            (VP
+              (NP (NT 06月) (NT 29号))
+              (VP (VV 订))))
+          (DEC 的))
+        (NP (NN 车))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 本来))
+    (NP
+      (NP
+        (QP (CD 4))
+        (NP (NN s)))
+      (NP (NN 店)))
+    (VP (VV 说)
+      (IP
+        (LCP
+          (NP
+            (QP (CD 一)
+              (CLP (M 个)))
+            (NP (NN 礼拜)))
+          (LC 之内))
+        (VP (VV 可以)
+          (VP (VV 提车)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 没))
+      (VP (VV 想到)))))
+####
+(ROOT
+  (NP (NT ) (NT 今天) (NT 30号) (NT 下午)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 店里))
+    (VP
+      (ADVP (AD 就))
+      (VP
+        (VP (VV 打)
+          (NP (NN 电话)))
+        (VP (VV 过来))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 说)
+      (IP
+        (NP (NN 车))
+        (VP (VV 到) (AS 了))))))
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 怎么))
+        (VP (VV 感觉)
+          (IP
+            (NP
+              (DP (DT 这))
+              (NP (NN 车)))
+            (VP (VV 到)
+              (VP
+                (ADVP (AD 得好))
+                (VP (VA 快))))))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 不过))
+    (NP (PN 我))
+    (VP (VE 没)
+      (NP (NN 时间) (NN 去取)))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP
+      (ADVP (AD 现))
+      (VP (VV 发帖)
+        (VP (VV 上来))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DP (DT 该)
+        (CLP (M 款)))
+      (NP (NN 车)))
+    (VP (VV 卖)
+      (NP
+        (DP (DT 该))
+        (NP (NN 价格))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 值得))))
+    (SP 吗)))
+####
+(ROOT
+  (NP
+    (NP (NN ) (NN ps))
+    (PU :)
+    (NP
+      (NP (NN 楼))
+      (ADJP (JJ 主))
+      (QP (OD 第一)
+        (CLP (M 次)))
+      (NP (NN 买车)))))
+####
+X
+####
+X
+####
+X

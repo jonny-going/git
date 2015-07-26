@@ -1,0 +1,27 @@
+(ROOT
+  (IP
+    (NP
+      (NP
+        (QP (CD k5dlx))
+        (NP (NN 价格)))
+      (QP
+        (QP
+          (NP (NT 最近))
+          (QP (CD 想买)
+            (CLP (M 辆))))
+        (PU k)
+        (QP (CD 5)))
+      (NP (NN ')))
+    (NP (PN 谁))
+    (VP (VV 知道)
+      (IP
+        (VP (VV dlx)
+          (NP
+            (NP
+              (ADJP
+                (ADVP (AD 最))
+                (ADJP (JJ 低)))
+              (NP (NN 优惠)))
+            (QP (CD 多少))
+            (ADJP (JJ 最好))
+            (NP (NR 嘉兴) (NN 价格))))))))

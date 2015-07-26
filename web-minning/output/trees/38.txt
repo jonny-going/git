@@ -1,0 +1,82 @@
+(ROOT
+  (IP
+    (NP (NN 英朗))
+    (VP
+      (ADVP (AD gt))
+      (VP (VV 进取)
+        (QP
+          (ADJP (JJ 手动))
+          (QP (CD 1)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (DP (CD 6l))
+        (NP (PU （)
+          (NP (NN 有点小) (NN 问题))
+          (PU ）)))
+      (VP (VV 提车)
+        (NP
+          (QP (CD 半)
+            (CLP (M 个)))
+          (NP (NN 月)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 最近) (NT 换挡))
+    (VP
+      (ADVP (AD 老是))
+      (DVP
+        (VP (VA 哒哒哒))
+        (DEV 的))
+      (VP (VV 响)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 感觉)
+        (IP
+          (VP
+            (VNV (VV 挡) (AD 没) (VV 挂))
+            (CP
+              (IP
+                (VP (VV 进去)))
+              (SP 似的))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 发动机) (NN 声音大))
+    (NP (PN 这))
+    (VP (VC 是)
+      (IP
+        (VP
+          (ADVP (AD 常))
+          (VP (VV 见) (AS 了)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 为什么))
+      (ADVP (AD 老是))
+      (DVP
+        (VP (VA 哒哒哒))
+        (DEV 的))
+      (VP (VV 响)))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 这))
+    (VP
+      (PP (P 对)
+        (NP (NN 车)))
+      (VP (VE 有)
+        (NP
+          (DP (DT 什么))
+          (NP (NN 伤害)))))))
+####
+X

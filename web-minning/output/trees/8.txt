@@ -1,0 +1,157 @@
+(ROOT
+  (IP
+    (VP (VV 迎南芷荷))
+    (PU ：)
+    (PRN (PU 【)
+      (NP
+        (NP (NR 福克斯))
+        (QP (CD 2012)
+          (CLP (M 款)))
+        (NP (NN 两厢)))
+      (NP
+        (QP (CD 1))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (CD 6))
+      (PP (P at)
+        (NP (NN 风)))
+      (ADVP (AD 尚))
+      (NP
+        (NP (NN 型))
+        (NP (PU 《) (NN 车主) (NN 点评) (PU 》)
+          (PRN
+            (NP (PU 】))))
+        (PU ：)
+        (NP (NN 车主)))
+      (VP
+        (PP (P 对)
+          (NP
+            (DNP
+              (NP
+                (ADJP (JJ 新))
+                (NP (NR 福克斯)))
+              (DEG 的))
+            (NP (NN 外形) (PU 、) (NN 内饰) (PU 、) (NN 舒适度)
+              (CC 以及)
+              (NN 安全))
+            (NP (NN 配置))))
+        (VP (VV 表示)
+          (NP
+            (ADJP (JJ 高度))
+            (NP (NN 赞扬))))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP
+      (ADVP (AD 但))
+      (ADVP (AD 同时))
+      (PP (P 对)
+        (IP
+          (NP (PN 其))
+          (VP (VV 做工))))
+      (VP (VV 表示)
+        (NP (NN 不满))))))
+####
+(ROOT
+  (IP
+    (NP
+      (ADJP (JJ ))
+      (NP (NN 动力)))
+    (VP
+      (ADVP (AD 仅仅))
+      (VP (VV 够用)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 油耗))
+    (VP (VV 相比)
+      (VP
+        (NP
+          (DP (DT 同)
+            (CLP (M 级)))
+          (NP (NN 车)))
+        (ADVP (AD 不))
+        (VP (VA 低))))
+    (PRN (PU …)
+      (IP
+        (VP (VV 迎)
+          (NP
+            (NP (NN 南芷荷))
+            (PU ：)
+            (PRN (PU 【)
+              (QP
+                (NP
+                  (NP (NR 福克斯))
+                  (QP (CD 2012)
+                    (CLP (M 款)))
+                  (NP (NN 两厢)))
+                (QP (CD 1))))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (CD 6))
+      (PP (P at)
+        (NP (NN 风)))
+      (ADVP (AD 尚))
+      (NP
+        (NP (NN 型))
+        (NP (PU 《) (NN 车主) (NN 点评) (PU 》)
+          (PRN
+            (NP (PU 】))))
+        (PU ：)
+        (NP (NN 车主)))
+      (VP
+        (PP (P 对)
+          (NP
+            (DNP
+              (NP
+                (ADJP (JJ 新))
+                (NP (NR 福克斯)))
+              (DEG 的))
+            (NP (NN 外形) (PU 、) (NN 内饰) (PU 、) (NN 舒适度)
+              (CC 以及)
+              (NN 安全))
+            (NP (NN 配置))))
+        (VP (VV 表示)
+          (NP
+            (ADJP (JJ 高度))
+            (NP (NN 赞扬))))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP
+      (ADVP (AD 但))
+      (ADVP (AD 同时))
+      (PP (P 对)
+        (IP
+          (NP (PN 其))
+          (VP (VV 做工))))
+      (VP (VV 表示)
+        (NP (NN 不满))))))
+####
+(ROOT
+  (IP
+    (NP
+      (ADJP (JJ ))
+      (NP (NN 动力)))
+    (VP
+      (ADVP (AD 仅仅))
+      (VP (VV 够用)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 油耗))
+    (VP (VV 相比)
+      (VP
+        (NP
+          (DP (DT 同)
+            (CLP (M 级)))
+          (NP (NN 车)))
+        (ADVP (AD 不))
+        (VP (VA 低))))
+    (PU …)))

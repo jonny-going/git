@@ -1,0 +1,549 @@
+(ROOT
+  (IP
+    (VP (VV 用车)
+      (QP (CD 一)
+        (CLP (M 年))))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (ADVP (AD 一点))
+        (VP (VV 感受))))
+    (IP
+      (VP
+        (PP (P 和)
+          (NP
+            (QP (CD 19000)
+              (CLP (M 公里)))
+            (QP (OD 第二)
+              (CLP (M 次)))
+            (NP (NN 保养))))
+        (VP (VV 买)
+          (NP (NN 车)))))
+    (IP
+      (VP
+        (ADVP (AD 正好))
+        (VP
+          (QP (CD 一)
+            (CLP (M 年))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 跑了)
+        (NP
+          (QP (CD 19000)
+            (CLP (M 公里)))
+          (ADJP (JJ 平均))
+          (NP (NN 油耗)))
+        (QP (CD 9))))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 1))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 对于)
+        (LCP
+          (NP
+            (CP
+              (IP
+                (VP
+                  (DVP
+                    (ADVP (AD 时常))
+                    (DEV 地))
+                  (VP (VV 板油))))
+              (DEC 的))
+            (NP (PN 我)))
+          (LC 来说)))
+      (ADVP (AD 非常))
+      (VP (VV 可以) (AS 了)))))
+####
+(ROOT
+  (IP
+    (NP
+      (ADJP (JJ ))
+      (NP (NN 车)))
+    (VP (VE 没)
+      (NP
+        (DP (DT 任何))
+        (NP (NN 问题))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 没))
+      (VP (VV 让)
+        (NP (PN 我))
+        (IP
+          (VP (VV 失望) (AS 过)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP (VA 动感)))
+          (DEC 的))
+        (NP (NN 外形))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (ADJP (JJ 实用))
+          (DEG 的))
+        (NP (NN 配置))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP (VA 不错)))
+          (DEC 的))
+        (NP (NN 动力))))))
+####
+(ROOT
+  (NP
+    (NP (NN ))
+    (CC 还有)
+    (NP
+      (DP (DT 那个)
+        (QP (CD 四)
+          (CLP (M 区))))
+      (NP (NN 系统)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 用过))
+    (VP
+      (ADVP (AD 才))
+      (VP (VV 知道)
+        (IP
+          (VP
+            (ADVP (AD 真的))
+            (VP (VC 是)
+              (IP
+                (VP (VA 不错))))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 货比货))
+    (VP
+      (ADVP (AD 才))
+      (VP (VV 能)
+        (VP (VV 分辨)
+          (NP (NN 优劣)))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 可能))
+    (VP
+      (IP
+        (VP (VC 是)
+          (NP
+            (DNP
+              (NP (PN 自己))
+              (DEG 的))
+            (NP (NN 孩子)))))
+      (ADVP (AD 怎么))
+      (VP (VV 看)
+        (IP
+          (VP
+            (ADVP (AD 都))
+            (VP (VC 是)
+              (NP
+                (CP
+                  (IP
+                    (VP (VA 好)))
+                  (DEC 的))))))))
+    (FLR (IJ 哈哈))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP
+              (ADVP (CS 如果))
+              (ADVP (AD 非要))
+              (VP (VV 说)
+                (VP
+                  (ADVP (AD 不))
+                  (VP (VA 满意))))))
+          (DEC 的))
+        (NP (NN 地方))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ) (NN 空间))
+      (VP (VV 算)
+        (QP (CD 一)
+          (CLP (M 个)))))
+    (SP 吧)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 毕竟))
+      (VP (VC 是)
+        (NP
+          (NP (NN x))
+          (QP (CD 1)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 原来))
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 发动机))
+          (VP (VV 声音大)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 习惯) (AS 了))
+      (VP
+        (ADVP (AD 也))
+        (ADVP (AD 就))
+        (VP (VV 好了))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )))
+    (SP 哦)))
+####
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NN ) (NN 内饰))
+        (DEG 的))
+      (NP (NN 用料)))
+    (VP
+      (ADVP (AD 也))
+      (ADVP (AD 不))
+      (VP (VC 是)
+        (VP
+          (ADVP (AD 太))
+          (VP (VV 讲究)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 就))
+      (VP (VV 看)
+        (CP
+          (IP
+            (NP (PN 你))
+            (VP (VV 注重)
+              (NP (PN 什么))))
+          (SP 了))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 保养) (NN 过程))
+    (VP
+      (ADVP (AD 很))
+      (VP (VA 简单)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DP (DT 前)
+          (QP (CD 一)
+            (CLP (M 天))))
+        (NP (NN 预约))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP (OD 第二)
+        (CLP (M 天)))
+      (NP (NT 下午)))
+    (VP (VV 到)
+      (NP (NN 店)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 维修))
+      (NP (NN 小姐)))
+    (VP (VV 说) (DER 的)
+      (VP
+        (ADVP (AD 还是))
+        (ADVP (AD 比较))
+        (VP (VA 清楚))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP
+          (QP (OD 第二)
+            (CLP (M 次)))
+          (NP (NN 保养)))
+        (CC 还是)
+        (NP
+          (ADJP (JJ 小))
+          (NP (NN 保养)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (CS 只要))
+      (VP (VV 换换)
+        (NP (NN 机油) (NN 机滤))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (NP (PN 我))
+    (VP (VV 提出)
+      (IP
+        (VP (VV 要)
+          (VP (VV 换)
+            (NP (NN 空调) (NN 滤芯))))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 她))
+    (VP (VV 说)
+      (IP
+        (VP
+          (ADVP (AD 还))
+          (VP (VV 可以)))))
+    (DFL (ETC 等等))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ))
+      (QP (OD 第三)
+        (CLP (M 次)))
+      (NP (NN 保养)))
+    (VP
+      (ADVP (AD 才))
+      (VP (VV 换)))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (NP (PN 我))
+    (VP
+      (ADVP (AD 又))
+      (VP (VV 提出)
+        (IP
+          (VP
+            (VNV (VV 能) (AD 不) (VV 能))
+            (VP (VV 帮着)
+              (LCP
+                (NP (NN 清洁))
+                (LC 下)))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 拿出来) (NN 吹吹灰)))))
+####
+(ROOT
+  (IP
+    (VP
+      (VRD (VV ) (VV 可以)))))
+####
+(ROOT
+  (IP
+    (VP
+      (VPT (VV ) (AD 但) (VV 要))
+      (NP (NN 费用)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 一))
+      (VP (VV 看)
+        (NP
+          (QP (CD 200))
+          (NP (NN 多)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VA 黑)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 不甘心)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 费) (AS 了)
+      (NP
+        (QP
+          (CLP (M 些)))
+        (NP (NN 口舌))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP
+      (ADVP (AD 终于))
+      (VP (VV 答应)
+        (IP
+          (VP (VV 去)
+            (VP (VV 请示)
+              (IP
+                (VP (VV 下))))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 免) (AS 了)
+        (NP
+          (DP (DT 这)
+            (CLP (M 部分)))
+          (NP (NN 费用)))))))
+####
+(ROOT
+  (IP
+    (VP (VV ))
+    (FLR (IJ 呵呵))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )))
+    (SP 哦)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 机油))
+    (NP (PN 我))
+    (VP (VV 要求)
+      (IP
+        (NP
+          (CP
+            (IP
+              (VP (VV 用)))
+            (DEC 的)))
+        (VP (VC 是)
+          (NP
+            (ADJP (JJ 瓶装))
+            (NP (NN 机油))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (IP
+          (NP (PN 她))
+          (VP
+            (VP (VV 打)
+              (NP (NN 单子))
+              (QP (CD 后用)
+                (CLP (M 笔))))
+            (VP (VV 注) (AS 了))))
+        (LC 下)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 估计)
+      (IP
+        (VP (VC 是)
+          (CP
+            (IP
+              (VP (VV 提醒)
+                (NP (NN 维修) (NN 人员))))
+            (SP 吧)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DP (DT 整个))
+        (NP (NN 过程)))
+      (NP
+        (QP
+          (QP (CD 一)
+            (CLP (M 个)))
+          (QP (CD 半)))
+        (NP (NN 小时))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 费用))
+      (QP (CD 1036)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 用的))
+    (VP (VC 是)
+      (NP
+        (CP
+          (IP
+            (NP
+              (CP
+                (IP
+                  (VP (VV 买)
+                    (NP (NN 车)))))
+              (NP (NN 时候)))
+            (VP (VV 送)))
+          (DEC 的))
+        (NP (NN 维修卡))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 也))
+      (VP (VC 是)
+        (NP
+          (CP
+            (IP
+              (NP
+                (CP
+                  (IP
+                    (VP (VV 买)
+                      (NP (NN 车)))))
+                (NP (NN 时候)))
+              (VP (VV 费)
+                (NP (NN 口舌))
+                (IP
+                  (VP (VV 争取)
+                    (IP
+                      (VP (VV 来)))))))
+            (DEC 的)))
+        (FLR (IJ 哈哈))))))
+####
+X

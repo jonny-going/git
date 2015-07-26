@@ -1,0 +1,84 @@
+(ROOT
+  (IP
+    (IP
+      (PP (P 关于)
+        (NP (NN 科鲁兹) (NN 颜色) (NN 问题)))
+      (NP (PN 本人))
+      (VP (VV 定) (AS 了)
+        (NP (NN 科鲁兹))))
+    (IP
+      (ADVP (AD 但))
+      (NP (NN 颜色))
+      (VP
+        (ADVP (AD 还))
+        (ADVP (AD 没有))
+        (VP (VV 选)
+          (VP (VV 喜欢)
+            (NP (NN 白色))
+            (IP
+              (VP
+                (ADVP (AD 但))
+                (ADVP (AD 不))
+                (VP (VC 是)
+                  (NP (NN 金属漆)))))))))
+    (IP
+      (ADVP (AD 但))
+      (VP
+        (ADVP (AD 又))
+        (VP (VV 听说)
+          (IP
+            (VP (VC 是)
+              (IP
+                (CP
+                  (IP
+                    (NP
+                      (NP (NN 珍珠))
+                      (ADJP (JJ 白))
+                      (NP (NN 珍珠) (NN 白)))
+                    (VP (VC 是)
+                      (NP (NN 金属漆))))
+                  (SP 吗))
+                (CP
+                  (ADVP (CS 如果))
+                  (CP
+                    (IP
+                      (NP
+                        (CP
+                          (IP
+                            (VP
+                              (ADVP (AD 不))
+                              (VP (VC 是)
+                                (NP
+                                  (ADJP (JJ 白色))
+                                  (CP
+                                    (IP
+                                      (VP
+                                        (ADVP (AD 怎么))
+                                        (VP (VV 保养)
+                                          (VP (VE 有)
+                                            (IP
+                                              (NP (PN 谁))
+                                              (VP (VV 开过)
+                                                (QP (CD 三)
+                                                  (CLP (M 年)))))))))
+                                    (DEC 的))
+                                  (NP (NN 白))))))
+                          (DEC 的)))
+                      (VP (VE 有)
+                        (IP
+                          (NP
+                            (DP (DT 什么))
+                            (NP (NN 变化) (NN 家里人)))
+                          (VP (VV 建议)
+                            (IP
+                              (VP (VV 买)
+                                (NP
+                                  (ADJP (JJ 黑色))
+                                  (NP (NN 纠结)))))))))
+                    (SP 啊)))))))))))
+####
+X
+####
+X
+####
+X

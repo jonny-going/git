@@ -1,0 +1,40 @@
+(ROOT
+  (IP
+    (VP (VV 天语)
+      (NP
+        (QP (CD sx4))
+        (NP (NN 两厢))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP
+          (ADJP (JJ 最低))
+          (QP (CD 多少))
+          (NP (NN 钱)))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 主要))
+      (VP (VC 是)
+        (VP (VV 觉得)
+          (IP
+            (NP (NN 油耗))
+            (VP (VA 不错))))))))
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN rt)))))
+####
+(ROOT
+  (IP
+    (VP (VV ))))
+####
+X

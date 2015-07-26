@@ -1,0 +1,123 @@
+(ROOT
+  (IP
+    (VP
+      (QP (CD 2850)
+        (CLP (M 元)))
+      (VP (VV 加装)
+        (NP
+          (ADJP (JJ 原))
+          (NP (NN 厂)))))
+    (NP
+      (NP (NN 导航))
+      (PU +)
+      (NP (NN 电子) (NN 狗))
+      (PU +)
+      (NP (NN 倒车) (NN 影像)))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VA 合算))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (DP (DT 这)
+        (QP (CD 几)
+          (CLP (M 天)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (QP (CD 一)
+      (CLP (M 个)))
+    (VP
+      (VCP (VV 自称) (VC 是))
+      (IP
+        (NP
+          (NP
+            (NP (NR 智跑))
+            (ADJP (JJ 原))
+            (NP (NN 厂)))
+          (NP (NN 导航) (NN 代理商))
+          (PRN (PU （)
+            (NP (NR 常州) (NN 奥虎) (NN 公司))
+            (PU ）)))
+        (VP (VV 联系)
+          (NP (PN 我)))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 说)
+      (QP (CD 2850)
+        (CLP (M 元)))
+      (IP
+        (VP
+          (VP (VV 加装)
+            (NP
+              (QP (CD 8)
+                (CLP (M 寸)))
+              (NP
+                (NP
+                  (ADJP (JJ 原))
+                  (NP (NN 厂)))
+                (NP (NN 导航))
+                (PU +)
+                (NP (NN 电子) (NN 狗))
+                (PU +))))
+          (VP (VV 倒车)
+            (NP (NN 影像))))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 说)
+      (IP
+        (VP
+          (ADVP (AD 不))
+          (VP (VV 会)
+            (VP (VV 破)
+              (NP (NN 线并) (NN 保修))
+              (QP (CD 一)
+                (CLP (M 年))))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VA 合算))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 值得)
+        (NP (NN 信任))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NN ) (NN 截图))
+      (VP (VV 如下)))
+    (PU ：)
+    (IP
+      (ADVP (AD [))
+      (NP
+        (DP (DT 本))
+        (NP (NN 帖)))
+      (VP
+        (ADVP (AD 最后))
+        (PP (P 由)
+          (NP (NN 晓风) (NN 寒)))
+        (PP (P 于)
+          (NP
+            (QP (CD 2013-06-30))
+            (QP (CD 22:39:52))
+            (NP (NN 编辑))))
+        (VP (VV ]))))))

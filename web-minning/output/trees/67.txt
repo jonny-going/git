@@ -1,0 +1,150 @@
+(ROOT
+  (IP
+    (NP (NN xf))
+    (VP (VV 换)
+      (NP
+        (NP
+          (NP
+            (QP (CD xj18)
+              (CLP (M 寸)))
+            (NP (NN 大脚)))
+          (NP (NN 作业)))
+        (NP (PN 本人))
+        (NP (NN 文盲)))
+      (QP (CD 一)
+        (CLP (M 个))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 组织)
+      (NP
+        (ADJP
+          (ADVP (AD 不))
+          (ADJP (JJ 好)))
+        (NP (NN 语言))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 你们))
+    (VP
+      (ADVP (AD 就))
+      (ADVP (AD 将))
+      (ADVP (AD 就))
+      (VP (VV 着看)))))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 今天) (NT 上午))
+    (VP (VV 提车))))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 中午))
+    (VP (VV 去)
+      (NP (NN 洗车)))))
+####
+(ROOT
+  (IP
+    (PRN
+      (VP
+        (ADVP (AD ))
+        (VP (VV 洗)
+          (NP
+            (CP
+              (IP
+                (VP (VV 车行)
+                  (VP (VV 说)
+                    (IP
+                      (NP (PN 他们))
+                      (VP (VE 有)
+                        (NP
+                          (QP
+                            (CLP (M 个)))
+                          (NP (NN xj) (NN 客户) (NN 寄卖))))))))
+              (DEC 的))
+            (NP (NN 原厂))))))
+    (NP
+      (QP (CD 18)
+        (CLP (M 寸)))
+      (NP (NN 轮毂)))
+    (VP (VV 加)
+      (NP (NN 轮胎)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP
+      (ADVP (AD 立刻))
+      (VP (VV 来) (AS 了)
+        (NP (NN 兴趣))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 顾)
+        (NP
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 不))
+                (VP (VV 上)
+                  (VP
+                    (ADVP (AD 才))
+                    (VP (VV 跑) (AS 了)
+                      (QP (CD 18)
+                        (CLP (M 公里))))))))
+            (DEC 的))
+          (ADJP (JJ 新))
+          (QP (CD 17)
+            (CLP (M 寸)))
+          (NP (NN 小脚)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (IP
+        (VP
+          (ADVP (AD ))
+          (VP (VV 添) (AS 了)
+            (NP
+              (QP
+                (CLP (M 点)))
+              (NP (NN 钱))))))
+      (VP (VV 换)
+        (NP
+          (NP
+            (QP (CD 二))
+            (NP (NN 手)))
+          (QP (CD 18)
+            (CLP (M 寸)))
+          (NP (NN 脚)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 废话))
+    (VP
+      (ADVP (AD 不))
+      (ADVP (AD 多))
+      (VP (VV 说)))))
+####
+(ROOT
+  (NP
+    (LCP
+      (NP (NN ))
+      (LC 上))
+    (NP (NN 照片))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (CS 虽然))
+      (ADVP (AD 也))
+      (ADVP (AD 没))
+      (VP (VV 照)
+        (NP (NN 几张))))))

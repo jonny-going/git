@@ -1,0 +1,176 @@
+(ROOT
+  (FRAG
+    (NP (NT 06年))
+    (QP (CD 1))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 8t)
+        (CLP (M 帕萨特)))
+      (NP (NN 领驭)))
+    (VP
+      (NP (NT 最近))
+      (ADVP (AD 提速))
+      (VP (VV 变慢) (AS 了)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP (NN 原因))))))
+####
+(ROOT
+  (FRAG
+    (NP (NT ) (NT 06年))
+    (QP (CD 1))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 8t)
+        (CLP (M 帕萨特)))
+      (NP (NN 领驭)))
+    (VP
+      (NP (NT 最近))
+      (ADVP (AD 提速))
+      (VP (VV 变慢) (AS 了)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP (NN 原因))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (DNP
+          (NP (NN 兄弟))
+          (DEG 的))
+        (QP
+          (NP (NT 06年))
+          (QP (CD 1)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 8t)
+        (CLP (M 帕萨特)))
+      (NP (NN 领驭)))
+    (VP
+      (NP (NT 最近))
+      (ADVP (AD 油门))
+      (VP
+        (VRD (VV 踩) (VV 下去))
+        (NP
+          (CP
+            (IP
+              (NP (NN 速度))
+              (VP (VV 提)))
+            (DEC 的))
+          (NP (NN 慢了)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 知道)
+        (NP
+          (DP (DT 什么))
+          (NP (NN 原因)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 感觉)
+      (IP
+        (VP (VV 油门)
+          (NP
+            (CP
+              (IP
+                (VP (VA 轻轻)))
+              (DEC 的))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP
+            (NP (NR ))
+            (ADJP (JJ 冷))
+            (NP (NN 车)))
+          (VP
+            (ADVP (AD 刚))
+            (VP (VV 启动))))
+        (DEC 的))
+      (NP (NN 时候)))
+    (VP (VA 还好))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 开个)
+          (QP (CD 几十)
+            (CLP (M 公里))))))
+    (VP
+      (ADVP (AD 就))
+      (VP (VV 感觉)
+        (IP
+          (VP
+            (ADVP (AD 油门))
+            (VP (VA 轻) (AS 了))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 速度))
+      (NP (NN 响应)))
+    (VP
+      (ADVP (AD 也))
+      (VP (VV 慢了)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 油门)
+      (LCP
+        (IP
+          (VP (VV 踩)
+            (ADVP (AD 到底))))
+        (LC 后)))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP (NN ) (NN 速度))
+          (VP (VA 慢)
+            (ADVP (AD 悠悠))))
+        (DEC 的)))
+    (VP (VV 飘到)
+      (LCP
+        (QP (CD 120))
+        (LC 左右)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP (NN 原因))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 谢谢))))
+####
+X

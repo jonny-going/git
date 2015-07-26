@@ -1,0 +1,225 @@
+(ROOT
+  (CP
+    (IP
+      (NP (PN 大家))
+      (VP
+        (PP (P 给)
+          (NP (PN 我)))
+        (VP (VV 推荐)
+          (NP
+            (NP
+              (QP
+                (CLP (M 个)))
+              (NP (NN 行车) (NN 记录)))
+            (NP (NN 仪带测速))))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP (NN )
+      (CC 或者)
+      (NN 电子) (NN 狗))
+    (VP
+      (ADVP (AD 也))
+      (VP (VV 行)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (VP
+        (VP (VV 待) (AS 着)
+          (IP
+            (VP (VV 没事))))
+        (VP (VV 差) (AS 了)
+          (NP
+            (DP (DT 下))
+            (NP (NN 违章))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP (NN 结果))
+        (QP (CD 3)
+          (CLP (M 个)))
+        (NP (NN 超速))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (QP (CD 一)
+        (CLP (M 个)))
+      (ADVP (AD 没))
+      (VP (VC 系)
+        (NP (NN 安全带))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP (CD 三)
+        (CLP (M 个)))
+      (NP (NN 超速)))
+    (QP (CD 一)
+      (CLP (M 个)))
+    (VP (VV 罚)
+      (QP
+        (NP
+          (QP (CD 100))
+          (NP (NN 扣)))
+        (QP (CD 3)
+          (CLP (M 分)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 没系))
+    (VP
+      (ADVP (AD 安全带))
+      (VP (VV 罚)
+        (QP
+          (NP
+            (QP (CD 50))
+            (NP (NN 扣)))
+          (QP (CD 2)
+            (CLP (M 分))))))))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP
+        (QP (CD 一))
+        (QP
+          (ADVP (AD 共))
+          (QP (CD 350))))
+      (NP (NN 大洋)))
+    (VP (VV 外加)
+      (NP (NT 11) (NN 分)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 受不了) (AS 了)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 准备)
+        (IP
+          (VP (VV 收)
+            (NP
+              (QP
+                (CLP (M 个)))
+              (CP
+                (IP
+                  (VP (VV 带)
+                    (NP (NN 测速))))
+                (DEC 的))
+              (NP (NN 行车) (NN 记录仪)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 或者光))
+    (VP (VV 要)
+      (IP
+        (NP (NN 电子) (NN 狗))
+        (VP
+          (ADVP (AD 也))
+          (VP (VV 行)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 这么))
+      (VP (VV 下去)
+        (VP (VV 罚)
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 不))
+                (VP (VV 起))))
+            (SP 啊)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 才))
+      (VP (VV 提)
+        (NP
+          (NP (NN 车))
+          (QP (CD 七八)
+            (CLP (M 个)))
+          (NP (NN 月)))))))
+####
+(ROOT
+  (NP
+    (LCP
+      (IP
+        (VP
+          (ADVP (AD ))
+          (VP (VV 逛) (AS 了))))
+      (LC 下))
+    (NP
+      (DP (DT 某))
+      (NP (NN 宝)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 销量))
+      (DNP
+        (ADJP
+          (ADVP (AD 最))
+          (ADJP (JJ 高)))
+        (DEG 的))
+      (ADJP (JJ 自由))
+      (NP (NN 舰)))
+    (VP (VV 不知道)
+      (NP (NN 好不好用)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (NP
+          (CP
+            (IP
+              (VP (VV 用) (AS 过)))
+            (DEC 的))
+          (NP (NN 说)))
+        (LC 下)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN [))
+      (DP (DT 本))
+      (NP (NN 帖)))
+    (VP
+      (ADVP (AD 最后))
+      (PP (P 由)
+        (NP
+          (QP (CD 公羊)
+            (CLP (M 天)))
+          (NP (NN 纵))))
+      (PP (P 于)
+        (NP
+          (QP (CD 2013-07-01))
+          (QP (CD 00:03:18))
+          (NP (NN 编辑))))
+      (VP (VV ])))))

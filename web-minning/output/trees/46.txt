@@ -1,0 +1,208 @@
+(ROOT
+  (IP
+    (VP (VV 求)
+      (NP
+        (ADJP (JJ 大))
+        (NP (NN 神)))
+      (IP
+        (VP (VV 帮忙))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 12)
+          (CLP (M 款)))
+        (NP
+          (QP (CD 307))
+          (NP (NN 行车)))
+        (NP (NN 电脑) (NN 问题))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (CP
+          (IP
+            (NP (NT ) (NT 2011年) (NT 7月))
+            (VP (VV 提)))
+          (DEC 的))
+        (NP (NN 车)))
+      (VP (VV 到)
+        (QP
+          (NP (NT 现在))
+          (ADVP (AD 已经))
+          (ADVP (AD 整整))
+          (QP (CD 两)
+            (CLP (M 年))))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD 54000km)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 算是)
+        (NP
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 比较))
+                (VP (VV 能)
+                  (VP (VV 跑)))))
+            (DEC 的)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 自己))
+    (VP
+      (PP (P 为)
+        (NP (NN 避让)))
+      (VP (VV 装) (AS 过)
+        (NP
+          (QP (CD 一)
+            (CLP (M 次)))
+          (NP (NN 中央) (NN 隔离带)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 换了)
+        (NP
+          (NP (NN 水箱))
+          (ETC 等))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (IP
+          (VP
+            (NP (NT 最近))
+            (VP (VV 发现)
+              (NP (NN 锁车)))))
+        (LC 后))
+      (QP
+        (ADVP (AD 大概))
+        (QP (CD 10)
+          (CLP (M 分钟)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DNP
+        (DP (DT 所有))
+        (DEG 的))
+      (NP (NN 电源)))
+    (VP
+      (ADVP (AD 都))
+      (VP (VV 没了)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 遥控))
+    (VP
+      (ADVP (CS 要是))
+      (ADVP (AD 无法))
+      (VP (VV 解锁)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 只))
+      (VP (VV 能)
+        (VP (VV 插)
+          (NP (NN 钥匙)))))
+    (VV 开门)))
+####
+(ROOT
+  (IP
+    (NP
+      (LCP
+        (NP (NN ) (NN 启动))
+        (LC 后))
+      (DNP
+        (NP (NN 行车) (NN 电脑))
+        (DEG 的))
+      (NP (NN 设置)))
+    (VP
+      (ADVP (AD 全部))
+      (ADVP (AD 都))
+      (VP (VV 重置) (AS 了)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 日期))
+    (VP
+      (ADVP (AD 直接))
+      (VP (VV 到)
+        (NP (NN 初始) (NN 日期))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (NN 音响))
+          (DEG 的))
+        (NP (NN 音量))))
+    (FLR (JJ 特大))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP
+          (NP
+            (DNP
+              (NP (NN ssss))
+              (DEG 的))
+            (NP (NN 说要)))
+          (NP
+            (DP (DT 全))
+            (NP (NN 车)))
+          (NP (NN 线路)))
+        (NP (NN 检测))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP (VV 怀疑)
+      (IP
+        (VP (VC 是)
+          (IP
+            (VP
+              (ADVP (AD 不))
+              (VP (VC 是)
+                (NP
+                  (NP
+                    (DNP
+                      (NP (NN 行车) (NN 电脑))
+                      (DEG 的))
+                    (NP (NN 记忆)))
+                  (DNP
+                    (NP (PN 什么))
+                    (DEG 的))
+                  (NP (NN 坏了)))))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP
+          (NP
+            (ADJP (JJ 大))
+            (NP (NN 神)))
+          (NP (NN 帮帮忙)))))))
+####
+X

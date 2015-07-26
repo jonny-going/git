@@ -1,0 +1,27 @@
+(ROOT
+  (IP
+    (LCP
+      (IP
+        (VP (VV 小凯踩)
+          (NP (NN 油门))))
+      (LC 时))
+    (NP (NN 脚))
+    (VP (VE 有)
+      (NP
+        (NP
+          (ADJP (JJ 轻微))
+          (NP (NN 震)))
+        (NP (NN 动感))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 怎么回事)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 内容) (NN 如题)))))
+####
+X

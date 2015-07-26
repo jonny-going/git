@@ -1,0 +1,107 @@
+(ROOT
+  (FRAG
+    (NP (NR 山东) (NN 滨州))
+    (VP
+      (VP
+        (VP (VV 无棣)
+          (NP
+            (NP
+              (QP (CD 4))
+              (NP (NN s) (NN 价格)))
+            (ADJP (JJ 高))
+            (NP (NN 态度))))
+        (VP (VA 差)))
+      (VP
+        (ADVP (AD 还))
+        (VP (VV 不送)
+          (NP (NN 平板))))
+      (VP
+        (VP (VV 看) (AS 了)
+          (NP
+            (DNP
+              (NP
+                (QP (CD 半)
+                  (CLP (M 个)))
+                (NP (NN 月)))
+              (DEG 的))
+            (NP (NN polo))))
+        (VP (VV 去)
+          (NP
+            (DNP
+              (NP
+                (NP
+                  (CP
+                    (IP
+                      (VP (VV 买)))
+                    (DEC 的))
+                  (NP (NN 时候)))
+                (QP (CD 4))
+                (NP (NN s) (NN 店)))
+              (DEG 的))
+            (NP (NN 销售) (NN 人员)))))
+      (VP
+        (PP (P 跟)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 没))
+                  (VP (VV 吃饭)
+                    (VP
+                      (ADVP (AD 没))
+                      (VP (VV 睡醒)
+                        (VP (VA 一样) (VA 爱搭) (VA 不理)))))))
+              (DEC 的))
+            (NP (NN 价格))))
+        (ADVP (AD 还))
+        (ADVP (AD 不))
+        (VP
+          (VRD (VV 给) (VA 便宜))
+          (QP (CD 7)))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP
+        (QP (CD 69))
+        (ADJP (JJ 手动))
+        (NP (NN 风尚)))
+      (VP
+        (ADVP (AD 不))
+        (VP (VV 送)
+          (NP (NN 平板))
+          (IP
+            (VP
+              (ADVP (AD 本来))
+              (VP (VV 想)
+                (IP
+                  (NP
+                    (CP
+                      (IP
+                        (VP (VV 买)
+                          (NP
+                            (QP (CD 两)
+                              (CLP (M 台)))
+                            (NP (NN 车)))))
+                      (DEC 的))
+                    (NP (NN 结果)))
+                  (VP (VC 是)
+                    (IP
+                      (VP
+                        (ADVP (AD 真))
+                        (VP (VE 没)
+                          (IP
+                            (NP (NN 心情))
+                            (VP (VV 买) (AS 了)
+                              (NP
+                                (ADJP (JJ 果断))
+                                (NP (NN 擦肩))))))))))))))))
+    (IP
+      (NP (NT 88))
+      (VP
+        (ADVP (AD 最后))
+        (VP (VV 订) (AS 了)
+          (NP
+            (QP (CD 两)
+              (CLP (M 辆)))
+            (NP (NN 瑞纳))))))))

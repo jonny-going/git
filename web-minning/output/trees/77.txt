@@ -1,0 +1,102 @@
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD 终于))
+        (VP (VV 买)
+          (NP (NN qq)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 换) (AS 了)
+          (QP
+            (NP
+              (ADJP (JJ 前))
+              (NP (NN 左)))
+            (QP (CD 避震)
+              (CLP (M 包)))))))
+    (IP
+      (VP (VV 安装)
+        (QP (CD 200))))
+    (IP
+      (VP
+        (VNV (VC 是) (AD 不) (VC 是))
+        (VP (SB 被)
+          (VP (VV 坑) (AS 了)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NN ))
+        (CC 还有)
+        (NP
+          (ADJP (JJ 右))
+          (NP (NN 轮))))
+      (NP (NN 球)))
+    (VP
+      (VRD (VV 套) (VV 要))
+      (IP
+        (QP (CD 260))
+        (VP
+          (ADVP (AD 不))
+          (VP (VV 舍得)
+            (IP
+              (VP (VV 换)))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (PP (P 除了)
+          (NP (NN 转弯) (NN 有异)))
+        (ADVP (AD 响应该))
+        (VP (VE 没)
+          (NP
+            (DP (DT 什么))
+            (NP (NN 安全) (NN 隐患))))))
+    (SP 吧)))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (NP (NR )
+          (CC 还有)
+          (NR qq))
+        (NP (NN 后轮)))
+      (VP
+        (ADVP (AD 居然))
+        (ADVP (AD 没))
+        (VP (VV 避震)
+          (NP
+            (QP
+              (ADVP (AD 只有))
+              (QP (CD 2)
+                (CLP (M 条))))
+            (NP (NN 弹簧) (NN 撑着))))))
+    (SP 的)))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 吓死)
+        (NP (PN 我))))))

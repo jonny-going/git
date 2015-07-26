@@ -1,0 +1,136 @@
+(ROOT
+  (FRAG
+    (NP
+      (ADJP (JJ 新))
+      (NP (NN 轩逸)))
+    (QP (CD 1))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (OD 6))
+      (ADVP (AD 自动))
+      (VP (VA 豪华)))))
+####
+(ROOT
+  (FRAG (NN ) (CD 1)))
+####
+(ROOT
+  (UCP
+    (IP
+      (QP (CD 4万裸车))
+      (VP (VV 开)
+        (NP (NN 倒车))))
+    (NP (NN 影像))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 导航)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 价格))
+    (VP (VV 高不)
+      (NP
+        (ADJP (JJ 新))
+        (NP (NN 轩逸)))
+      (QP (CD 1)))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (OD 6))
+      (ADVP (AD 自动))
+      (VP (VA 豪华)))))
+####
+(ROOT
+  (FRAG (NN ) (CD 1)))
+####
+(ROOT
+  (UCP
+    (IP
+      (QP (CD 4万裸车))
+      (VP (VV 开)
+        (NP (NN 倒车))))
+    (NP (NN 影像))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 导航)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 价格))
+    (VP
+      (ADVP (AD 高不))
+      (VP (VV 纠结) (AS 了)
+        (QP (CD 3)
+          (CLP (M 天)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 陵派)
+        (CC 和)
+        (NN 轩逸)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (VP (VV 提) (AS 了)
+        (NP
+          (NP (NN 轩逸))
+          (QP (CD 1)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 6))
+      (ADJP (JJ 自动))
+      (ADJP (JJ 豪华))
+      (NP (NN 裸车)))
+    (VP
+      (QP (CD 1)))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 7万))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (NP (NN 惠民))
+        (LC 后))
+      (QP (CD 1)))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 4万))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 加)
+        (NP (NN 导航))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 倒车))
+      (NP (NN 影像) (NN 朋友们)))
+    (VP
+      (PP (P 给)
+        (NP
+          (QP
+            (CLP (M 个)))
+          (NP (NN 评价))))
+      (VP (VA 贵)
+        (ADVP (AD 不))))))
+####
+X

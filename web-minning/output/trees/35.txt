@@ -1,0 +1,50 @@
+(ROOT
+  (IP
+    (LCP
+      (NP
+        (NP
+          (NP
+            (NP
+              (NP (NN 君威) (NN 变速箱))
+              (NP (NN 问题)))
+            (ADJP (JJ 新))
+            (NP (NN 君威)))
+          (ADJP (JJ 舒适))
+          (NP (NN 版)))
+        (NP (NN 参数)))
+      (LC 上))
+    (VP
+      (IP
+        (VP (VC 是)
+          (NP
+            (QP (CD 6)
+              (CLP (M 档)))
+            (NP (NN 手)))))
+      (ADVP (AD 自))
+      (VP (VV 一体)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 怎么))
+      (ADVP (AD 又))
+      (VP (VC 是)
+        (QP (CD 6at))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (ADJP (JJ ))
+        (NP (NN 车)))
+      (VP
+        (ADVP (AD 也))
+        (ADVP (AD 没))
+        (VP (VV 见)
+          (NP
+            (ADJP (JJ 手动))
+            (NP (NN 档位))))))
+    (SP 啊)))
+####
+X

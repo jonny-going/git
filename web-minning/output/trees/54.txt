@@ -1,0 +1,76 @@
+(ROOT
+  (IP
+    (IP
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 车))
+          (VP (VV 价高)))))
+    (IP
+      (NP (PN 我))
+      (VP (VV 感觉)
+        (IP
+          (NP
+            (DNP
+              (NP
+                (DP (DT 这个))
+                (NP (NN 车)))
+              (DEG 的))
+            (NP (NN 价格)))
+          (VP
+            (ADVP (AD 真的))
+            (ADVP (AD 有点))
+            (VP (VA 高))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (ADVP (AD ))
+            (VP (VV 同级)
+              (NP
+                (DP (DT 别的))
+                (NP (NN 车)))
+              (LCP
+                (QP (CD 十五万))
+                (LC 左右)))))
+        (DEC 的)))
+    (VP
+      (VP (VE 有)
+        (NP
+          (QP (CD 很多))
+          (NP (NN 车))))
+      (VP (VV 可以)
+        (VP (VV 选择))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (NN 配置))
+    (DFL (AD 而且))
+    (VP
+      (ADVP (AD 还))
+      (VP (VV 要)
+        (VP (VA 高))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP (VC 是)
+      (NP (NN 计划) (NN 朗行) (NN 舒适型)))))
+####
+(ROOT
+  (CP
+    (IP
+      (IP
+        (VP
+          (ADVP (AD ))
+          (VP (VE 有)
+            (QP (CD 十五万)))))
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 买)
+          (QP (CD k5)))))
+    (SP 了)))

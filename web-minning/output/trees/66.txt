@@ -1,0 +1,107 @@
+(ROOT
+  (IP
+    (VP (VV 准备)
+      (IP
+        (VP (VV 入手)
+          (QP (CD 海马m3)))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 大家))
+    (VP
+      (VP (VV 看看)
+        (NP (NN 价格)))
+      (VP (VV 可以)
+        (ADVP (AD 不))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 关注)
+        (NP
+          (NP
+            (DP (DT 这))
+            (NP (NN 车)))
+          (NP (NN 很久)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (ADVP (AD 终于))
+      (VP (VE 有)
+        (IP
+          (NP (NN 时间))
+          (VP
+            (PP (P 到)
+              (NP (NN 店)))
+            (VP (VV 看车))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 海马)
+      (NP
+        (NP
+          (NP
+            (NP
+              (QP (CD m3))
+              (NP (NN 裸车)))
+            (DP (DT 全))
+            (NP (NN 系)))
+          (NP (NN 优惠)))
+        (QP (CD 3000))
+        (NP (NN 大洋))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP
+      (DP (DT 别的))
+      (NP (PN 什么)))
+    (VP
+      (ADVP (AD 都))
+      (VP (VE 没有)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP (CD 4))
+      (NP (NN s)))
+    (VP (VV 貌似)
+      (IP
+        (VP
+          (ADVP (AD 很))
+          (VP (VA 忙)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 销售))
+    (VP
+      (ADVP (AD 也))
+      (ADVP (AD 没))
+      (ADVP (AD 怎么))
+      (VP (VV 招待)))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NN ))
+      (VP (VV 问)
+        (IP
+          (VP (VV 完)
+            (NP (NN 价格))))))
+    (IP
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 走) (AS 了))))))
+####
+(ROOT
+  (IP
+    (VP (VV ))
+    (PU ~)))

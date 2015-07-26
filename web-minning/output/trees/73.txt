@@ -1,0 +1,84 @@
+(ROOT
+  (IP
+    (IP
+      (VP (VA 急急) (VA 急急) (VA 急急)))
+    (IP
+      (NP
+        (DNP
+          (NP (PN 我))
+          (DEG 的))
+        (NP (NN 雨燕)))
+      (VP
+        (QP (CD 1))))))
+####
+(ROOT
+  (IP
+    (NP (NT 3))
+    (VP
+      (LCP
+        (IP
+          (VP
+            (VP (VV 跑) (AS 了)
+              (QP (CD 二百)
+                (CLP (M 公里))))
+            (VP
+              (VP (VV 回来)
+                (NP (NN 车速))
+                (QP (CD 110)))
+              (VP (VV 开)
+                (NP (NN 空调) (NN 到家))))))
+        (LC 时))
+      (ADVP (AD 好像))
+      (VP (VC 是)
+        (NP
+          (DNP
+            (NP (NN 柴油车))
+            (DEG 的))
+          (NP (NN 声音)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 都))
+        (VP
+          (VPT (VV 舍) (AD 不) (VV 得))
+          (NP (NN 采油) (NN 门)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 问)
+      (NP
+        (QP (CD 一))
+        (NP (NN 问)))
+      (IP
+        (VP
+          (ADVP (AD 车友们))
+          (VP (VE 有)
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 没))
+                  (VP (VE 有)
+                    (NP (NN 同感)))))
+              (SP 呀))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (NP (NN ))
+        (CC 还是)
+        (NP
+          (DNP
+            (NP (PN 我))
+            (DEG 的))
+          (NP (NN 车子))))
+      (VP (VE 有)
+        (NP (NN 问题))))
+    (SP 呀)))
+####
+X

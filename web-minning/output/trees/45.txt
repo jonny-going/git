@@ -1,0 +1,477 @@
+(ROOT
+  (IP
+    (NP (CD 307))
+    (VP
+      (ADVP (AD 突然))
+      (ADVP (AD 无法))
+      (VP (VV 启动)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (NN 仪表) (PU “) (NN 嗒嗒) (PU ”))
+          (DEG 的))
+        (NP (NN 响))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 然后))
+      (VP (VV 休克)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DP (DT 全))
+      (NP (NN 车)))
+    (VP
+      (VP (VV 断电)
+        (QP (CD 307)))
+      (VP
+        (ADVP (AD 突然))
+        (ADVP (AD 无法))
+        (VP (VV 启动))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (NN 仪表) (PU “) (NN 嗒嗒) (PU ”))
+          (DEG 的))
+        (NP (NN 响))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 然后))
+      (VP (VV 休克)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DP (DT 全))
+      (NP (NN 车)))
+    (VP (VV 断电))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP (VC 是)
+      (QP (CD 1)))))
+####
+(ROOT
+  (FRAG
+    (QP
+      (ADJP (CD 6))
+      (NP (NN 丐版))
+      (ADJP (JJ 手动))
+      (QP (CD 307)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (VP (VV 跑) (AS 了)
+        (NP
+          (QP (CD 两百)
+            (CLP (M 公里)))
+          (NP (NN 山路)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 六)
+          (CLP (M 个)))
+        (NP (NN 小时))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 非常))
+      (VP (VV 颠簸)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 回到)
+        (NP (NN 小区) (NN 附近)))
+      (VP (VV 吃)
+        (NP
+          (QP
+            (CLP (M 个)))
+          (NP (NN 饭)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 上车)
+        (VP
+          (ADVP (AD 就))
+          (VP (VV 打))))
+      (VP
+        (ADVP (AD 不))
+        (VP (VV 着火) (AS 了))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 窗户))
+    (VP
+      (VPT (VV 关) (AD 不) (VV 上)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 门))
+    (VP
+      (ADVP (AD 都))
+      (VP
+        (VPT (VV 锁) (AD 不) (VV 上))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 打)
+        (NP (NN 电话))
+        (PP (P 给)
+          (NP (NN 修车店)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 老板))
+    (VP (VV 说)
+      (IP
+        (NP
+          (QP (CD 十有八九))
+          (NP (NN 电瓶)))
+        (VP (VV 坏) (AS 了))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 让)
+      (NP (PN 我))
+      (IP
+        (VP
+          (NP (NT 明天))
+          (VP (VV 找人)
+            (NP (NN 推发))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV ))
+      (CC 或者)
+      (VP (VV 找)
+        (NP
+          (DP (DT 别的)
+            (QP (CD 车搭)
+              (CLP (M 个))))
+          (NP (NN 电)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 开去))
+    (VP (VV 换)
+      (NP (NN 电瓶)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP
+      (ADVP (AD 很))
+      (VP (VV 纳闷)))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (NP
+          (DP (DT 这))
+          (NP (NN 车)))
+        (QP (CD 十)
+          (CLP (M 天))))
+      (VP
+        (ADVP (AD 没))
+        (VP (VV 开))))))
+####
+(ROOT
+  (IP
+    (NP (NT ) (NT 今天) (NT 早上))
+    (VP
+      (VP
+        (ADVP (AD 一))
+        (VP (VV 打)))
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 着))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 接着))
+      (VP (VV 开了)
+        (NP
+          (QP (CD 六)
+            (CLP (M 个)))
+          (NP (NN 小时)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 电瓶))
+    (VP
+      (ADVP (AD 怎么))
+      (ADVP (AD 可能))
+      (VP (VV 亏)
+        (NP (NN 电))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP
+      (ADVP (AD 拆了))
+      (VP (VV 电瓶)
+        (NP
+          (QP (CD 两))
+          (NP (NN 极)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 发现)
+      (IP
+        (NP (NN 正极))
+        (VP
+          (ADVP (AD 还算))
+          (VP (VA 干净)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 但))
+      (ADVP (AD 负极))
+      (VP (VV 附着) (AS 了)
+        (NP
+          (QP (CD 很多))
+          (ADJP (JJ 白色))
+          (NP (NN 粉末)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 于是))
+      (VP (VV 搞好)
+        (NP (NN 清洁))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (PP (P 用)
+        (NP (NN 砂纸)))
+      (VP (VV 打磨)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 重新))
+      (VP (VV 接上)
+        (NP (NN 正负极))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 然后))
+      (VP (VV 叫来)
+        (NP
+          (QP (CD 三)
+            (CLP (M 个)))
+          (NP (NN 人)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 挂上)
+        (QP (CD 二)
+          (CLP (M 档)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP (BA 把)
+        (IP
+          (NP (NN 车子))
+          (VP (VV 推) (AS 着)))))
+    (SP 了)))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 不))
+        (VP (VV 敢)
+          (VP (VV 熄火)))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 接着))
+      (VP (VV 跑) (AS 了)
+        (NP
+          (QP (CD 半)
+            (CLP (M 个)))
+          (NP (NN 小时)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 开)
+        (NP
+          (NP
+            (QP
+              (CLP (M 回)))
+            (NP (NN 小区)))
+          (ADJP (JJ 地下))
+          (NP (NN 车库))))
+      (VP
+        (VP (VV 停))
+        (VP (VA 好))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 貌似)
+      (IP
+        (VP (VV 充上) (AS 了)
+          (NP
+            (QP (CD 一)
+              (CLP (M 点)))
+            (NP (NN 电))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 至少))
+      (ADVP (AD 顺利))
+      (VP (VV 锁上) (AS 了)
+        (NP (NN 车门))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 能够)
+      (VP (VV 推发)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 说明)
+        (IP
+          (NP
+            (NP (NN 发电机)
+              (CC 和)
+              (NN 点火))
+            (NP (NN 线圈)))
+          (VP (VE 没有)
+            (NP (NN 问题))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 这))
+      (VP (VC 是)
+        (NP
+          (CLP
+            (ADJP (JJ 怎么))
+            (CLP (M 回)))
+          (NP (NN 事)))))
+    (SP 呢)))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我))
+    (VP
+      (ADVP (AD 真))
+      (ADVP (AD 不))
+      (VP (VV 知道)
+        (IP
+          (NP (NT 明天) (NT 早上))
+          (VP (VV 能)
+            (VP
+              (ADVP (AD 顺利))
+              (VP (VV 发车)
+                (ADVP (AD 不))))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP (NN 车子))
+        (QP
+          (ADVP (AD 已经))
+          (QP (CD 四)
+            (CLP (M 年))))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 没))
+      (VP (VV 换) (AS 过)
+        (NP (NN 电瓶))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 原配))
+    (VP (VC 是)
+      (CP
+        (IP
+          (VP (VC 是)
+            (NP (NN 骆驼) (NN 牌))))
+        (SP 的)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN [))
+    (VP
+      (DP (DT 本)
+        (CLP (M 帖)))
+      (ADVP (AD 最后))
+      (PP (P 由)
+        (NP (NR 长沙)))
+      (VP (VV 小杨)
+        (PP (P 于)
+          (NP
+            (QP (CD 2013-06-30))
+            (QP (CD 23:27:38))
+            (NP (NN 编辑) (NN ]))))))))

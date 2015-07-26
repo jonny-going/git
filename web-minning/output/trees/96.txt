@@ -1,0 +1,210 @@
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP
+          (QP (CD 许多))
+          (NP (NN 消费者) (NN 对手)))
+        (NP (NN 机) (NN 维修)))
+      (NP (NN 期间)))
+    (VP
+      (ADVP (AD 还))
+      (VP (VV 要)
+        (VP
+          (PP (P 向)
+            (NP (NN 运营商)))
+          (VP (VV 付费)
+            (VP (VV 表示)
+              (NP (NN 不满)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 认为)
+      (IP
+        (VP
+          (ADVP (AD 很))
+          (ADVP (AD 不))
+          (VP (VA 合理)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 专家))
+    (VP (VV 提醒) (PU ：)
+      (IP
+        (NP (NN 商家))
+        (VP
+          (VP
+            (PP (P 以)
+              (NP
+                (NP
+                  (NP (NN 送话费))
+                  (ETC 等))
+                (NP (NN 套餐) (NN 活动))))
+            (VP (VV 捆绑)
+              (NP (NN 销售) (NN 手机))))
+          (VP
+            (ADVP (AD 也))
+            (VP (VV 应)
+              (VP (VV 视作)
+                (NP
+                  (ADJP (JJ 合格))
+                  (NP (NN 商品)))))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 应)
+      (VP (VV 单开)
+        (NP
+          (NP (NN 手机) (NN 发票))
+          (CC 和)
+          (NP (NN 保修卡)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 按照)
+        (NP (NN 合同法) (NN 规定))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 赠予)
+        (NP (NN 人)))
+      (VP
+        (PP (P 在)
+          (LCP
+            (NP
+              (DNP
+                (NP
+                  (ADJP (JJ 附))
+                  (NP (NN 义务)))
+                (DEG 的))
+              (NP (NN 限度)))
+            (LC 内)))
+        (VP (VV 承担)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (PP (P 与)
+                    (NP
+                      (IP
+                        (VP (VV 出卖)))
+                      (NP (NN 人))))
+                  (VP (VA 相同))))
+              (DEC 的))
+            (NP (NN 责任))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 在)
+        (NP
+          (NP (NN 手机) (NN 维修))
+          (NP (NN 期间)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 建议)
+        (NP (NN 运营) (NN 企业))
+        (IP
+          (VP
+            (PP (P 向)
+              (NP (NN 消费者)))
+            (VP
+              (VP (VV 发放)
+                (NP
+                  (ADJP (JJ 替代))
+                  (NP (NN 手机))))
+              (CC 或)
+              (VP (VV 采取))))))
+      (VP (VV 暂停)
+        (NP (NN 收费))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP (NN ) (NN 空调))
+      (VP (VV 存在)
+        (NP (NN 问题))))
+    (PU ：)
+    (IP
+      (NP
+        (ADJP (JJ 制热) (PU 、) (JJ 制冷))
+        (NP (NN 效果)))
+      (VP (VA 差)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 室内机)
+      (NP (NN 滴水) (PU 、) (NN 噪音大)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 安装)
+      (NP (NN 不到位)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 售后) (NN 服务))
+    (VP
+      (ADVP (AD 不))
+      (VP (VA 及时)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 销售商)
+      (CC 或)
+      (NN 生产) (NN 单位))
+    (VP (VV 夸大)
+      (NP (NN 宣传)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 专家))
+    (VP (VV 提醒) (PU ：)
+      (IP
+        (NP (NT 目前))
+        (NP (NN 我国) (NN 南方) (NN 地区))
+        (VP
+          (ADVP (AD 大多))
+          (VP (VV 使用)
+            (NP (NN 热泵型) (NN 空调))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 对)
+        (NP
+          (DP (DT 这)
+            (CLP (M 类)))
+          (NP (NN 空调)))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (DNP
+          (NP
+            (NP
+              (NP (NN ) (NN 国家) (NN 标准))
+              (NP (NN 规定)))
+            (ADJP (JJ 良好))
+            (NP (NN 运行)))
+          (DEG 的))
+        (NP (NN 外机) (NN 环境)))
+      (NP (NN 温度)))
+    (VP (VC 是)
+      (LCP
+        (QP (CD 5)
+          (CLP (M 摄氏度)))
+        (LC 以上)))))
+####
+X

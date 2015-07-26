@@ -1,0 +1,107 @@
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NR 帝豪))
+        (QP (CD ec715))
+        (NP (NN 油耗)))
+      (NP (NN 问题)))
+    (VP
+      (ADVP (AD 懂的))
+      (VP (VV 进来)
+        (VP (VV 解答))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (ADVP (AD ))
+            (VP (VV 谢谢)
+              (NP (PN 我)))))
+        (DEC 的))
+      (NP (NN 车子)))
+    (NP
+      (QP
+        (CLP (M 公里)))
+      (NP (NN 数)))
+    (VP (VV 显示)
+      (NP
+        (CP
+          (IP
+            (VP (VV 增加)
+              (QP (CD 一)
+                (CLP (M 公里)))))
+          (DEC 的))
+        (NP (NN 时候))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 油表) (NN 公里数))
+    (VP
+      (ADVP (AD 直接))
+      (VP (VV 降低)
+        (QP (CD 3)
+          (CLP (M 公里)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 这个))
+    (VP (VC 是)
+      (NP
+        (CLP
+          (ADJP (JJ 怎么))
+          (CLP (M 回)))
+        (NP (NN 事))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (NT 以前))
+      (VP
+        (ADVP (AD 不))
+        (VP (VV 会))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 就是))
+    (ADVP (AD 有一次))
+    (NP (NN 邮箱))
+    (VP (VV 跳帧))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP
+              (PP (P 给)
+                (LCP
+                  (IP
+                    (NP (NN 卡))
+                    (VP (VV 主) (AS 了)))
+                  (LC 以后)))
+              (VP (VV 出现))))
+          (DEC 的))
+        (NP (NN 情况))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP (PN 我))
+        (NP (NN 新手))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 大家))
+    (VP (VV 帮帮忙))))
+####
+X

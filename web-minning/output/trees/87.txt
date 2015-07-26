@@ -1,0 +1,374 @@
+(ROOT
+  (NP
+    (LST
+      (QP (OD 第四)
+        (CLP (M 次))))
+    (NP
+      (QP (CD 3万)
+        (CLP (M 公里)))
+      (NP (NN 保养)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 真的))
+      (ADVP (AD 很))
+      (VP (VA 贵)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 四))
+        (NP (NN 保))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 还是))
+        (PP (P 在)
+          (NP
+            (NP (NR 杭州))
+            (NP (NN 迅通))))
+        (VP (VV 做))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 间隔)
+      (NP
+        (QP (CD 8)
+          (CLP (M 个)))
+        (NP (NN 月))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD 7000)
+        (CLP (M 公里))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 真心))
+      (VP (VA 贵)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 两千))
+        (NP (NN 大洋))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 工时费)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 预约)
+        (NP (NN 保养))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 打)
+      (QP
+        (QP (CD 八折1))
+        (PU 、)
+        (QP
+          (NP
+            (NP
+              (NP
+                (ADJP (JJ 常规))
+                (NP (NN 保养)))
+              (NP (PU +)
+                (NP (NN 更换) (NN 制动液))
+                (PU +)
+                (NP (NN 更换) (NN 火花塞))
+                (PU +)))
+            (NP (NN 空调)))
+          (QP (CD 养护) (PU ：) (CD 648)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 介绍)
+      (IP
+        (NP (PN 我))
+        (NP (NN 弟) (NN 买昊锐))
+        (VP
+          (ADVP (AD 抵用))
+          (VP (VV 卷)
+            (QP (CD 500))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 工时))
+    (VP (VV 优惠)
+      (QP (CD 129)))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 6))))
+####
+(ROOT
+  (NP (NT ) (NT 实付) (NT 18)))
+####
+(ROOT
+  (NP
+    (NP
+      (QP (CD 4)
+        (CLP (M 元)))
+      (NP (NN 配件)))
+    (NP (NN 放油) (NN 螺栓))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 依然))
+      (VP (VC 是)
+        (QP
+          (DNP
+            (NP (NN 坑爹))
+            (DEG 的))
+          (QP (CD 25)))))))
+####
+(ROOT
+  (FRAG
+    (NP
+      (QP (CD 34)
+        (CLP (M 元)))
+      (NP (NN 空气))
+      (NN 滤芯))
+    (QP (CD 84))))
+####
+(ROOT
+  (FRAG
+    (NP
+      (QP (CD 53))
+      (NP (NN 空调))
+      (NN 滤芯))
+    (PRN
+      (QP (CD 102)))
+    (IP
+      (NP (NN 燃油) (NN 滤芯))
+      (QP (CD 97)))
+    (PRN
+      (QP
+        (NP (NN 制动液))
+        (QP (CD 2)
+          (CLP (M 瓶)))))
+    (QP (CD 169))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (QP (CD 66))
+        (NP (NN 空调) (NN 养护)))
+      (NP (NN 套装)))
+    (VP
+      (QP
+        (QP (CD 219一共))
+        (QP (CD 697))))))
+####
+(ROOT
+  (IP
+    (VP
+      (QP (CD 8)
+        (CLP (M 元)))
+      (VP (VV 自带)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (QP
+        (ADVP (AD 一共))
+        (QP (CD 886)))
+      (NP (NN 嘉实)))
+    (VP
+      (ADVP (AD 多极))
+      (VP (VV 护)
+        (QP (CD 0w-40))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NR ))
+        (QP (CD 5)
+          (CLP (M 瓶)))
+        (QP (CD 500))
+        (NP
+          (NP (NR 曼))
+          (NP (NN 牌)))
+        (NP (NN 机滤)))
+      (QP (CD 130))
+      (NP (NN 冠军)))
+    (VP
+      (VP (VV 火花塞)
+        (QP (CD 256)))
+      (VP
+        (ADVP (AD 总共))
+        (VP (VV 花了)
+          (QP
+            (QP (CD 648))
+            (FLR (PU +))
+            (QP (CD 697))))))))
+####
+(ROOT
+  (FRAG
+    (NP
+      (QP
+        (QP (CD 8))
+        (PU +)
+        (QP (CD 886)))
+      (NP (NN =)))
+    (QP (CD 2231))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 8))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ) (NN 实付))
+      (VP
+        (QP
+          (ADVP (AD 约))
+          (QP (CD 1550)))
+        (PP (P 比)
+          (NP (NR 奥迪)))
+        (ADVP (AD 还))
+        (VP (VA 贵) (AS 了))))
+    (SP 吧)))
+####
+(ROOT
+  (IP
+    (LCP
+      (NP (NN ))
+      (LC 以后))
+    (VP
+      (PP (P 在)
+        (NP (PN 自己) (PN 这边)))
+      (VP (VV 保养) (AS 了)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP (NT 明天))
+        (DP (DT 上))
+        (NP (NN 照片))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (IP
+          (VP
+            (ADVP (AD 顺便))
+            (VP (VV 说))))
+        (LC 下)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DNP
+        (NP (PN 我))
+        (DEG 的))
+      (NP (NN 电瓶)))
+    (VP
+      (ADVP (AD 负极))
+      (VP (VV 腐蚀)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 正极))
+    (VP (VC 是)
+      (NP
+        (CP
+          (IP
+            (VP (VA 好)))
+          (DEC 的))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (IP
+      (ADVP (AD 但是))
+      (NP (NN 电瓶))
+      (VP
+        (ADVP (AD 从来))
+        (VP (VE 没)
+          (NP (NN 亏电过)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 状态))
+    (VP
+      (ADVP (AD 很))
+      (VP (VA 好)))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我))
+    (VP (VV 想)
+      (IP
+        (NP (NN 再涂) (NN 硅胶))
+        (VP (VV 处理)
+          (ADVP (AD 一下)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (NP
+          (NP (NT 现在) (NT n))
+          (NP (NN 档)))
+        (ADJP (JJ 瞬时))
+        (NP (NN 油耗)))
+      (QP (CD 0)))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 7))))
+####
+(ROOT
+  (FRAG
+    (NP
+      (NP (NR ))
+      (NP (NR 杭州))
+      (NP (NN 来回))
+      (ADJP (JJ 平均))
+      (NP (NN 油耗)))
+    (QP (CD 6))))
+####
+(ROOT
+  (FRAG
+    (QP (CD 2))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ) (NN 表现))
+      (VP
+        (ADVP (AD 还是))
+        (VP (VV 可以))))
+    (SP 的)))
+####
+X

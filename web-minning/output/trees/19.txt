@@ -1,0 +1,183 @@
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD 暖风))
+      (VP (VV 出现)
+        (NP (NN 异味))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 请)
+      (VP (VV 问)
+        (NP
+          (CP
+            (IP
+              (VP (VV 悦翔)
+                (NP
+                  (DNP
+                    (NP (NN 空调) (NN 外) (NN 循环)
+                      (CC 和)
+                      (NN 内) (NN 循环))
+                    (DEG 的))
+                  (NP (NN 进气口)))))
+            (DEC 的))
+          (ADJP (JJ 具体))
+          (NP (NN 位置)))
+        (IP
+          (VP
+            (NP (NT 最近))
+            (VP (VV 开)
+              (VP (VV 暖风)
+                (VP (VV 出现)
+                  (NP (NN 异味)))))))))
+    (PRN (PU （)
+      (IP
+        (NP
+          (ADJP (JJ 类似))
+          (NP (NN 尘土) (NN 味)
+            (CC 和)
+            (NN 胶皮) (NN 味)))
+        (VP (VV 缠)
+          (IP
+            (VP (VV 在一起)))))
+      (PU ）))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADJP (JJ 具体))
+      (NP (NN 情况)))
+    (VP (VC 是) (PU ：)
+      (IP
+        (LCP
+          (NP
+            (QP (CD 1))
+            (PU 、)
+            (NP (NN 内) (NN 循环)))
+          (LC 时))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 异味))
+    (VP (VV 较重))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (NP
+          (ADVP (AD 尤其是))
+          (NP (NN 吹前档) (NN 玻璃)))
+        (LC 时)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (NP
+          (QP (CD 2))
+          (PU 、)
+          (NP (NN 外) (NN 循环)))
+        (LC 时)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 异味))
+    (VP (VV 捎轻))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 我))
+    (VP (VV 准备)
+      (IP
+        (VP
+          (PP (P 在)
+            (NP (NN 网购) (NN 空调) (NN 清洁剂)))
+          (VP
+            (VPT (VV 清洗) (AD 一下) (VV 风道))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 但是))
+      (PP (P 根据)
+        (NP (NN 使用)))
+      (VP (VV 说明)))))
+####
+(ROOT
+  (IP
+    (LCP
+      (NP (NN ) (NN 要从))
+      (LC 外))
+    (NP
+      (DNP
+        (NP (NN 循环)
+          (CC 和)
+          (NN 内) (NN 循环))
+        (DEG 的))
+      (NP (NN 进气口)))
+    (VP (VV 注入)
+      (NP (NN 泡沫) (NN 清洁剂)))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP (VV 请)
+        (VP (VV 问)
+          (NP
+            (NP
+              (DNP
+                (NP
+                  (DP (DT 下))
+                  (NP (NN 悦翔)))
+                (DEG 的))
+              (NP (NN 外) (NN 循环)))
+            (CC 和)
+            (NP (NN 内) (NN 循环)))
+          (IP
+            (VP (VV 进气口)
+              (PP (P 在)
+                (NP (PN 哪))))))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV ps) (PU ：)
+      (IP
+        (NP
+          (NP (NR 请问))
+          (DP (DT 别的))
+          (NP (NN 车友)))
+        (VP (VE 有)
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 没))
+                (VP (VE 有)
+                  (NP
+                    (ADJP (JJ 类似))
+                    (NP (NN 问题))))))
+            (SP 啊)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VNV (VE 有) (AD 没) (VE 有))
+      (NP
+        (DP (DT 什么))
+        (CP
+          (IP
+            (VP
+              (ADVP (AD 更))
+              (VP (VA 好))))
+          (DEC 的))
+        (NP (NN 解决) (NN 办法))))))
+####
+X

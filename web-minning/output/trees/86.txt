@@ -1,0 +1,197 @@
+(ROOT
+  (IP
+    (NP
+      (DNP
+        (NP (NN 进口) (NN 旅行) (NN 版昊锐))
+        (DEG 的))
+      (NP (NN 大脚)))
+    (VP (VV 让)
+      (NP
+        (NP
+          (ADJP (JJ 国产))
+          (NP (NN 昊锐)))
+        (NP (NN 情)))
+      (IP
+        (VP
+          (ADVP (AD 何以))
+          (VP (VV 堪)
+            (IP
+              (VP
+                (NP (IJ 啊))))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP
+              (PP (P 为了)
+                (IP
+                  (VP (VV 搭配))))
+              (VP (VA 修长))))
+          (DEC 的))
+        (NP (NN 车身))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP
+        (QP (CD 一)
+          (CLP (M 套)))
+        (CP
+          (IP
+            (VP (VA 大)
+              (ADVP (AD 点儿))))
+          (DEC 的))
+        (NP (NN 轮毂)))
+      (VP (VC 是)
+        (VP (VV 必不可少))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NN ) (NN 进口) (NN 昊锐))
+        (NP (NN 旅行)))
+      (NP (NN 版)))
+    (VP (VV 选择) (AS 了)
+      (IP
+        (NP
+          (QP (CD 17))
+          (NP (NN 吋)))
+        (VP
+          (ADVP (AD 多))
+          (VP (VV 辐条)
+            (NP (NN 样式))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 轮胎))
+    (VP
+      (PP (P 为)
+        (NP (NN 邓禄普) (NN sp)))
+      (VP (VV sport)
+        (QP (CD fastresponse)
+          (CLP (M 系列)))))
+    (PRN (PU （)
+      (VP
+        (ADVP (AD 也))
+        (VP (VE 有)
+          (NP
+            (CP
+              (IP
+                (VP (VV 使用)
+                  (VP (VV 倍耐力)
+                    (QP (CD p7)))))
+              (DEC 的)))))
+      (PU ）))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 型号))
+      (QP
+        (QP (CD 225/45))
+        (QP (CD r17))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VE 有)
+        (IP
+          (NP
+            (DNP
+              (ADJP (JJ 好))
+              (DEG 的))
+            (NP (NN 轮胎)))
+          (VP (VV 做)
+            (NP (NN 基础))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 性能))
+    (VP
+      (ADVP (AD 自然))
+      (ADVP (AD 也))
+      (ADVP (AD 不))
+      (VP (VV 会)
+        (VP (VV 差)
+          (NP (NN 哪去)))))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 看过)
+          (NP
+            (CP
+              (IP
+                (NP (PN 我))
+                (VP
+                  (ADVP (AD 之前))
+                  (VP (VV 写) (AS 过))))
+              (DEC 的))
+            (NP (NN 昊锐))))))
+    (IP
+      (VP (VV 换)
+        (NP (NN 胎) (NN 测试))))
+    (IP
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 明白) (AS 了))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 在)
+        (LCP
+          (NP (PN 那))
+          (LC 之后))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 还))
+      (FLR (CD 很多) (NN 朋友))
+      (VP (VV 问)
+        (NP
+          (QP (CD 225mm))
+          (CP
+            (IP
+              (VP (VA 宽)))
+            (DEC 的))
+          (NP (NN 轮胎)))
+        (IP
+          (VP (VV 配)
+            (NP (NN 昊锐) (NN 合适么))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 往后))
+      (VP (VV 看吧)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (VP (VV 可以)
+        (VP
+          (PP (P 从)
+            (LCP
+              (NP
+                (NP (NN 进口) (NN 版))
+                (NP (NN 车型)))
+              (LC 上)))
+          (VP (VV 找到)
+            (NP (NN 案))))))))
+####
+X

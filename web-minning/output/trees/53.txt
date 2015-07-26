@@ -1,0 +1,178 @@
+(ROOT
+  (IP
+    (VP (VV 求助贴))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 尚))
+      (VP (VA 酷)
+        (IP
+          (VP
+            (ADVP (AD r换挡))
+            (VP (VA 异响))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD )
+        (CLP (M 版)))
+      (NP (NN 主们)))
+    (VP (VV 过来)
+      (VP
+        (ADVP (AD 帮帮忙))
+        (ADVP (AD 低速))
+        (QP (CD 一)
+          (CLP (M 档)))
+        (VP (VV 升)
+          (QP (CD 二档)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 二)
+          (CLP (M 档)))
+        (CP
+          (IP
+            (VP
+              (LCP
+                (IP
+                  (VP (VV 升)
+                    (QP (CD 三)
+                      (CLP (M 档)))))
+                (LC 时))
+              (VP (VE 有)
+                (NP (NN 咔咔)))))
+          (DEC 的))
+        (NP (NN 声音))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP
+              (ADVP (AD 就))
+              (PP (P 像)
+                (NP (NN 链条)))
+              (VP (VV 松) (AS 了))))
+          (DEC 的))
+        (NP (NN 感觉))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 但))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 影响)))
+    (FLR (VV 行使))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (ADVP (AD 才))
+        (QP (CD 一千五百)
+          (CLP (M 公里)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (IP
+        (NP
+          (DP (DT 这))
+          (NP (NN 声音)))
+        (VP
+          (PP (P 在)
+            (NP
+              (CP
+                (IP
+                  (VP (VA 安静)))
+                (DEC 的))
+              (NP (NN 地方))))
+          (VP (VV 听着)
+            (VP
+              (ADVP (AD 很))
+              (VP (VA 烦躁)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (ADVP (AD 已经))
+      (VP
+        (VP (VV 去)
+          (NP
+            (NP
+              (QP (CD 4))
+              (NP (NN s)))
+            (NP (NN 店))))
+        (VP (VV 查看))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP
+        (NP (NR ))
+        (NP (NN 技师)))
+      (VP
+        (ADVP (AD 也))
+        (ADVP (AD 不))
+        (VP (VV 懂))))
+    (VP (VC 是)
+      (NP
+        (DP (DT 什么))
+        (NP (NN 问题))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 已经))
+      (VP (BA 把)
+        (IP
+          (NP (NN 声音))
+          (VP (VV 录下)))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 说)
+      (IP
+        (VP (VV 发给)
+          (NP (NN 厂家)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )))
+    (SP 唉)))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 大家))
+      (VP (VV 碰到) (AS 过)
+        (NP
+          (DP (DT 这个))
+          (NP (NN 问题)))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 求助) (NN 求助)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 附爱))
+      (VP (VV 车照)
+        (QP (CD 一张))))))

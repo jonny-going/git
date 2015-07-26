@@ -1,0 +1,113 @@
+(ROOT
+  (IP
+    (VP
+      (PP (P 为)
+        (NP
+          (DNP
+            (NP (PN 我们))
+            (DEG 的))
+          (NP (NN 新车) (NN 标提点))))
+      (VP (VV 建议)
+        (FLR (SP 吧))
+        (IP
+          (VP (VV 看) (AS 着)
+            (IP
+              (NP (PN 你们))
+              (VP (VV 独有)
+                (NP
+                  (DNP
+                    (NP (PN 自己))
+                    (DEG 的))
+                  (NP (NN 车标)))))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 也))
+        (VP (VV 动心) (AS 了))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 设计) (AS 了)
+        (NP
+          (QP (CD 一)
+            (CLP (M 个)))
+          (CP
+            (IP
+              (VP (VV 属于)
+                (NP (NN 青海逍) (NN 客车) (NN 友))))
+            (DEC 的))
+          (NP (NN 车标)))))))
+####
+(ROOT
+  (IP
+    (CP
+      (IP
+        (VP
+          (ADVP (AD ))
+          (VP (VV 请)
+            (NP (PN 大家))
+            (IP
+              (VP (VV 提提)
+                (NP (NN 建议)))))))
+      (SP 吧))
+    (NP (PN 这))
+    (VP
+      (VP (VC 是)
+        (NP
+          (DNP
+            (NP (NN 设计))
+            (DEG 的))
+          (QP (OD 第一)
+            (CLP (M 个)))
+          (NP (NN 备选) (NN 车))))
+      (VP
+        (VP (VV 标)
+          (NP
+            (CP
+              (IP
+                (NP (PN 这))
+                (VP (VC 是)
+                  (NP (NN 设计))))
+              (DEC 的))
+            (QP (OD 第二)
+              (CLP (M 个)))
+            (NP (NN 备选) (NN 车标))))
+        (VP (VA 对了))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (CP
+          (IP
+            (VP (VV )
+              (NP
+                (QP (OD 第二)
+                  (CLP (M 个)))
+                (NP (NN 车) (NN 标上)))))
+          (DEC 的))
+        (NP (NN 编号)))
+      (VP (VV 给)
+        (VP (VV 弄丢) (AS 了))))
+    (SP 啊)))
+####
+(ROOT
+  (CP
+    (IP
+      (IP
+        (VP
+          (ADVP (AD ))
+          (PP (P 和)
+            (QP (OD 第一)
+              (CLP (M 个))))
+          (VP (VA 一样))))
+      (VP (VE 有)
+        (NP (NN 编号))))
+    (SP 的)))

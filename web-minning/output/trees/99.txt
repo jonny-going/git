@@ -1,0 +1,160 @@
+(ROOT
+  (IP
+    (NP
+      (NP (NN 汽车) (NN 存在))
+      (NP (NN 问题)))
+    (PU ：)
+    (IP
+      (LCP
+        (IP
+          (NP (NN 新车))
+          (VP (VV 购买)))
+        (LC 后))
+      (LCP
+        (NP (NN 短期))
+        (LC 内))
+      (VP (VV 出现)
+        (NP
+          (NP (NN 质量) (NN 问题))
+          (PU 、)
+          (NP (NN 汽车) (NN 配件))
+          (CC 以及)
+          (NP
+            (NP (NN 安装)
+              (CC 和)
+              (NN 维修))
+            (NP (NN 问题))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 消费) (NN 疑问))
+    (PU ：)
+    (NP (NR 上海))
+    (VP
+      (ADVP (AD 何时))
+      (VP
+        (VP (VV 能对)
+          (NP (NN 轮胎)))
+        (VP (VV 进行)
+          (NP (NN 质量) (NN 检测)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 专家))
+    (VP (VV 解释) (PU ：)
+      (IP
+        (NP (NN 轮胎) (NN 检测))
+        (VP (VV 可)
+          (VP (VV 委托)
+            (NP
+              (NP (NR 北京) (NN 国家) (NN 轮胎))
+              (NP (NN 质量)))
+            (IP
+              (VP (VV 监督)
+                (NP (NN 中心))))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 玻璃) (NN 检测))
+    (VP (VV 可)
+      (VP (VV 委托)
+        (IP
+          (VP (VV 秦皇岛)
+            (NP (NN 国家) (NN 玻璃) (NN 质检) (NN 中心))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NR ) (NR 上海) (NN 产品))
+        (NP (NN 质量)))
+      (NP (NN 检验所)))
+    (VP
+      (NP (NT 目前))
+      (ADVP (AD 已))
+      (VP (BA 将)
+        (IP
+          (NP
+            (DNP
+              (NP (NN 轮胎)
+                (CC 和)
+                (NN 玻璃) (NN 产品))
+              (DEG 的))
+            (NP (NN 检验)))
+          (VP (VV 列入)
+            (NP (NN 计划))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 并))
+      (ADVP (AD 正在))
+      (VP (VV 组织)
+        (VP (VV 实施))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 不久))
+      (VP (VV 可)
+        (VP
+          (PP (P 对)
+            (NP
+              (DNP
+                (NP (NN 车辆))
+                (DEG 的))
+              (NP (NN 轮胎)
+                (CC 和)
+                (NN 玻璃))))
+          (VP (VV 进行)
+            (NP (NN 检验))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 专家))
+    (VP (VV 提醒) (PU ：)
+      (IP
+        (NP (NN 消费者))
+        (VP (VV 应当)
+          (VP
+            (PP (P 通过)
+              (NP
+                (ADJP (JJ 正规))
+                (NP (NN 渠道))))
+            (VP (VV 购买)
+              (NP (NN 汽车)))))))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (VPT (VV ) (AD 不) (VV 要))
+        (IP
+          (NP (NN 图) (NN 价格))
+          (VP (VA 便宜)))))
+    (IP
+      (VP (VV 光顾)
+        (NP (NN 路边))))
+    (IP
+      (VP
+        (ADVP (AD 快))
+        (VP (VV 修店))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 以免))
+      (VP (VV 埋下)
+        (NP
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 不))
+                (VP (VA 安全))))
+            (DEC 的))
+          (NP (NN 隐患)))))))
+####
+X

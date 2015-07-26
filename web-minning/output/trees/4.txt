@@ -1,0 +1,196 @@
+(ROOT
+  (IP
+    (NP (NN 首付))
+    (VP (VA 不多))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 空间))
+      (ADJP (JJ 不小))
+      (NP (NN 金融) (NN 直通车)))
+    (VP (VV 买车))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 首付))
+      (QP (CD 4w)))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP (NN ) (NN 端午节))
+          (VP
+            (ADVP (AD 交钱))
+            (VP (VV 提))))
+        (DEC 的))
+      (NP (NN 骊威顶)))
+    (VP (VV 配)
+      (NP (NN 劲锐)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 周末))
+      (ADVP (AD 就))
+      (VP (LB 被)
+        (IP
+          (NP (NN 媳妇) (NN 拉着))
+          (VP
+            (VP (VV 开车)
+              (VP (VV 去国)
+                (NP (NR 美))))
+            (VP (VV 买)
+              (NP (NN 东西)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 正好))
+      (VP (VV 赶上)
+        (IP
+          (VP (VV 做)
+            (NP (NN 活动) (NN 特价))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 转) (AS 了)
+      (QP (CD 一)
+        (CLP
+          (ADJP (JJ 大))
+          (CLP (M 圈)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 买)
+        (NP
+          (QP (CD 一)
+            (CLP (M 堆)))
+          (NP (NN 东西)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (DNP
+          (NP
+            (NP (NN 电视) (PU 、) (NN 空调) (PU 、) (NN 相机))
+            (NP (NN 之类)))
+          (DEG 的))
+        (QP (CD 一)
+          (CLP
+            (ADJP (JJ 大))
+            (CLP (M 堆))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 往)
+        (NP
+          (NP (NN 车里) (NN 搬得))
+          (NP (NN 时候))))
+      (PP (P 给)
+        (NP (PN 我)))
+      (ADVP (AD 差点))
+      (VP (VV 累死)))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (ADVP (AD 不过))
+    (PP (P 往)
+      (NP (NN 车上)))
+    (NP (NN 装的) (NN 时候))
+    (VP
+      (ADVP (AD 倒是))
+      (VP (VV 真够)
+        (PP (P 给)
+          (NP (NN 力的)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (BA 把)
+      (IP
+        (NP
+          (NP (NR 后排))
+          (NP (NN 座位)))
+        (VP (VV 放倒))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 空调))
+    (VP
+      (ADVP (AD 轻松))
+      (ADVP (AD 就))
+      (VP (VV 进去) (AS 了)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 电视))
+    (VP
+      (ADVP (AD 直接))
+      (VP (VV 搞定)))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (NP (PN 这))
+      (VP (VV 能)
+        (VP (VV 装))))
+    (SP 啊)))
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN si)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD >) (CD 2) (CD 0) (CD 0)))))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (FRAG
+    (NP (NN )
+      (PRN (PU -)
+        (NP (NR height))))
+    (PU :)
+    (QP (CD 150%))))
+####
+(ROOT
+  (NP
+    (NP (NN ) (NN font-family))
+    (PU :)
+    (NP
+      (NP (NR ") (NR 微软) (NN 雅))
+      (ADJP (JJ 黑))
+      (NP (NN ")))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN "))
+    (VP (VV sans-serif)
+      (NP (NN ") (NN ') (NN >)))))

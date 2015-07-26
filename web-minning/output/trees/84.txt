@@ -1,0 +1,40 @@
+(ROOT
+  (IP
+    (VP (VV 轩逸)
+      (NP
+        (DNP
+          (NP
+            (NP
+              (ADJP (JJ 经典))
+              (NP (NN 异响轩逸)))
+            (ADJP (JJ 经典))
+            (ADJP (JJ 手动))
+            (NP (NN 档)))
+          (DEG 的))
+        (DP (DT 各位))
+        (NP (NN 兄弟) (NN 姐妹))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 你们))
+      (LCP
+        (NP (NN 车) (NN 怠速))
+        (LC 时))
+      (NP (NN 变速箱) (NN 有异))
+      (VP (VV 响)))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 离合器))
+    (VP
+      (LCP
+        (IP
+          (VP (VV 踩)))
+        (LC 下))
+      (ADVP (AD 就))
+      (VP (VE 没有) (AS 了)))))
+####
+X

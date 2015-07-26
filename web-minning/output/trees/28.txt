@@ -1,0 +1,55 @@
+(ROOT
+  (IP
+    (IP
+      (VP
+        (DVP
+          (VP (VA abb))
+          (DEV 的))
+        (VP (VV 自带)
+          (NP (NN 导航)))))
+    (IP
+      (NP (PN 哪个))
+      (VP
+        (ADVP (AD 更))
+        (VP (VA 好用))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VA 便捷)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VA 精准)))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 这里))
+    (NP
+      (ADVP (AD 只有))
+      (NP (NR 奥迪) (NN 木)))
+    (VP (VE 有)
+      (NP (NN 用过)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 感觉)
+        (IP
+          (NP
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 都))
+                  (VP (VE 没)
+                    (NP (NN 皇冠)))))
+              (DEC 的))
+            (NP (NN 导航)))
+          (VP (VA 好用)))))))
+####
+X

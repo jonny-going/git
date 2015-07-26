@@ -1,0 +1,76 @@
+(ROOT
+  (IP
+    (IP
+      (NP (NN crv))
+      (VP
+        (VP (VV 转向)
+          (NP (NN 灯)))
+        (VP
+          (ADVP (AD 不))
+          (VP (VA 亮)))))
+    (IP
+      (NP
+        (QP (CD 双))
+        (NP (NN 闪亮)))
+      (VP
+        (ADVP (AD 刚才))
+        (VP (VV 发现)
+          (NP
+            (QP (CD 一)
+              (CLP (M 个)))
+            (NP (NN 问题))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (VP (VV 打)
+        (NP (NN 右)))
+      (VP
+        (VP (VV 转向)
+          (NP (NN 灯)))
+        (VP
+          (ADVP (AD 不))
+          (VP (VA 亮)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 仪表盘))
+    (VP
+      (ADVP (AD 没有))
+      (VP (VV 显示)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 也))
+      (VP (VE 没有)
+        (NP (NN 声音))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 但是))
+      (VP (VV 打)
+        (VP
+          (ADVP (AD 双))
+          (VP (VV 闪)
+            (NP (NN 正常))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VC 是)
+          (NP
+            (DP (DT 啥))
+            (NP (NN 原因))))))
+    (SP 呢)))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 大虾) (NN 赐教)))))

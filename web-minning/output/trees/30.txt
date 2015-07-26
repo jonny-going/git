@@ -1,0 +1,106 @@
+(ROOT
+  (IP
+    (NP (NN 球) (NN 高手))
+    (VP (VV 支招)
+      (NP
+        (CP
+          (IP
+            (VP
+              (ADVP (AD 刚))
+              (VP (VV 买))))
+          (DEC 的))
+        (NP (NN 荣威)))
+      (QP (CD 350)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 总体))
+      (VP (VV 感觉)
+        (IP
+          (VP
+            (ADVP (AD 不))
+            (VP (VA 错))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (IP
+              (ADVP (AD 就是))
+              (LCP
+                (IP
+                  (NP (NT 2))
+                  (VP (VV 挡)
+                    (VP (VV 爬)
+                      (NP (NN 陡坡)))))
+                (LC 时))
+              (NP (NN 感觉))
+              (VP (VV 无力)))
+            (PU 、)
+            (IP
+              (VP
+                (ADVP (AD 还))
+                (ADVP (AD 伴有))
+                (VP (VV 达) (PU 、) (VV 达)))))
+          (DEC 的))
+        (NP (NN 异响))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 1))
+        (CP
+          (IP
+            (VP
+              (LCP
+                (IP
+                  (VP (VV 挡)
+                    (NP (NN 坡道) (NN 起步))))
+                (LC 时))
+              (ADVP (AD 也))
+              (ADVP (AD 有点))
+              (VP (VV 达达))))
+          (DEC 的))
+        (NP (NN 异) (NN 响声))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VE 有)
+          (IP
+            (NP
+              (DP (DT 哪)
+                (CLP (M 位)))
+              (NP (NN 高手)))
+            (VP (VV 知道)
+              (NP
+                (DP (DT 什么))
+                (NP (NN 原因))))))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP (NN 支援))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 亲们)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (PP (P 给)
+        (NP (NN 力哈))))))
+####
+X

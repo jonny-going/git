@@ -1,0 +1,112 @@
+(ROOT
+  (IP
+    (VP
+      (PP (P 关于)
+        (NP
+          (DNP
+            (NP
+              (ADJP (JJ 小))
+              (NP (NR 柯)))
+            (DEG 的))
+          (NP (NN 收音机))))
+      (VP (VV 请教)
+        (NP
+          (DP (DT 各位))
+          (NP (NN 柯友)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (DNP
+          (NP (PN 你们))
+          (DEG 的))
+        (NP (NN 收音机) (NN 效果) (NN 好吗))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP (VV )
+            (NP
+              (DNP
+                (NP (PN 我))
+                (DEG 的))
+              (ADJP (JJ 小))
+              (NP (NR 柯)))))
+        (DEC 的))
+      (NP (NN 收音机)))
+    (VP
+      (ADVP (AD 实在))
+      (VP (VC 是)
+        (IP
+          (VP (VV 让)
+            (NP (NN 人))
+            (IP
+              (VP (VV 无语)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 就))
+      (PP (P 在)
+        (NP (NN 本地)))
+      (ADVP (AD 都))
+      (NP (NN 杂音))
+      (ADVP (AD 很))
+      (VP (VA 大)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADJP (JJ 自动))
+      (NP (NN 搜索)))
+    (VP
+      (ADVP (AD 根本))
+      (VP
+        (VPT (VV 收) (AD 不) (VV 到))
+        (NP (NR 台))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 知道)
+        (IP
+          (IP
+            (VP (VC 是)
+              (NP
+                (DNP
+                  (NP (PN 我))
+                  (DEG 的))
+                (NP (NN 收音机)))))
+          (VP
+            (ADVP (AD 没))
+            (VP (VV 搞)
+              (PP (P 对)
+                (IP
+                  (ADVP (AD 还是))
+                  (NP (PN 本身))
+                  (VP (VE 有)
+                    (NP (NN 问题))))))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 请教)
+          (NP (PN 大家)))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 感谢)))))
+####
+X

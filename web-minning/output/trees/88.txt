@@ -1,0 +1,100 @@
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD 晶锐))
+      (VP (VV 想)
+        (IP
+          (VP (VV 换)
+            (NP (NN 轮胎))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 帮忙)
+      (IP
+        (LCP
+          (NP (NN 推荐))
+          (LC 下))
+        (NP
+          (DNP
+            (NP (PN 我))
+            (DEG 的))
+          (NP (NN 晶锐)))
+        (VP (VC 是)
+          (QP (CD 1)))))))
+####
+(ROOT
+  (NP
+    (LST (OD 6))
+    (NP (NN 晶享))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (DP (DT 有的))
+      (NP (NN 胎)))
+    (VP (LB 被)
+      (IP
+        (NP (NN 钉子))
+        (VP (VV 扎过))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (LCP
+        (NP
+          (DP (DT 有的))
+          (NP (NN 有向)))
+        (LC 内))
+      (VP (VV 鼓包)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 想)
+        (IP
+          (VP (VV 换)
+            (NP
+              (QP (CD 4)
+                (CLP (M 个)))
+              (NP (NN 轮胎)))))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (NP (PN 大家))
+    (VP (VV 帮忙)
+      (VP (VV 推荐)
+        (NP
+          (DP (DT 下))
+          (CP
+            (IP
+              (VP (VV 物美价廉)))
+            (DEC 的))
+          (NP (NN 轮胎)))))))
+####
+(ROOT
+  (DP
+    (CP
+      (IP
+        (NP (NN ) (NN 价格))
+        (VP
+          (ADVP (AD 大概))
+          (VP (VV 在)
+            (LCP
+              (QP (CD 六百))
+              (LC 左右))
+            (QP (CD 一)
+              (CLP (M 个))))))
+      (DEC 的))
+    (DP (DT 那)
+      (CLP (M 种)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 谢谢)))))

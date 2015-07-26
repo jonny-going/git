@@ -1,0 +1,116 @@
+(ROOT
+  (IP
+    (LCP
+      (NP (NN 宝))
+      (LC 来))
+    (NP
+      (NP
+        (ADJP (JJ 右))
+        (ADJP (JJ 后))
+        (NP (NN 轮)))
+      (NP (NN 有异)))
+    (VP (VV 响))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我))
+    (VP (VC 是)
+      (NP
+        (NP (NT 2012年) (NT 8月))
+        (NP (NN 买的) (NN 宝来))))
+    (PRN (PU （)
+      (NP
+        (ADJP (JJ 手动))
+        (NP (VV 挡)))
+      (PU ）))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP (NN 新车))
+      (LCP
+        (IP
+          (VP (VV 买) (AS 了)
+            (NP
+              (QP (CD 两)
+                (CLP (M 个)))
+              (NP (NN 月)))))
+        (LC 以后)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADJP (JJ 右))
+      (NP (NN 后轮)))
+    (VP (VV 出现)
+      (NP (NN 异) (NN 响)))
+    (PRN (PU （)
+      (NP
+        (UCP
+          (NP (NN 起步))
+          (CC 和)
+          (LCP
+            (NP (NN 倒车))
+            (LC 时))))
+      (PU ）))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (QP (CD )
+          (CC 到)
+          (CD 4))
+        (NP (NN s)))
+      (NP (NN 店)))
+    (VP (VV 修) (AS 了)
+      (QP (CD 两)
+        (CLP (M 次))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADJP (JJ 右))
+      (NP (NN 后轮)))
+    (VP
+      (ADVP (AD 还))
+      (ADVP (AD 有异))
+      (VP (VV 响)))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 你们))
+      (NP
+        (NP (NR 宝来))
+        (ADJP (JJ 右))
+        (ADJP (JJ 后))
+        (NP (NN 轮)))
+      (VP
+        (ADVP (AD 有异))
+        (VP (VV 响))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (CS 如))
+      (VP (VE 有)
+        (IP
+          (NP (PN 是))
+          (VP
+            (ADVP (AD 怎样))
+            (VP (VV 解决))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 谢谢)))))
+####
+X

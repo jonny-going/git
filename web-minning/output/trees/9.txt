@@ -1,0 +1,109 @@
+(ROOT
+  (IP
+    (IP
+      (NP
+        (QP (CD 2013))
+        (NP (NN 君) (NN 威)))
+      (VP
+        (ADVP (AD gs))
+        (VP (VV 出现)
+          (NP (NN 变速箱) (NN 过热)))))
+    (IP
+      (NP
+        (QP (CD 2013))
+        (NP (NN 君) (NN 威)))
+      (VP
+        (ADVP (AD gs))
+        (VP (VV 出现)
+          (NP
+            (DNP
+              (NP
+                (NP (NN 变速箱))
+                (ADJP
+                  (ADVP (AD 过))
+                  (ADJP (JJ 热)))
+                (NP (NT 今年) (NN 新买)))
+              (DEG 的))
+            (NP (NN 君威) (NN gs))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 刚))
+      (VP (VV 做)
+        (VP (VV 玩)
+          (NP
+            (QP (OD 首))
+            (NP (NN 保))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (NP (NT 目前))
+        (NP (NN 里程))
+        (QP (CD 数))
+        (QP (CD 7200)
+          (CLP (M 公里)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 最近))
+      (VP (VV 跑) (AS 了)
+        (NP
+          (QP (CD 几)
+            (CLP (M 次)))
+          (CP
+            (IP
+              (NP
+                (NP
+                  (ADJP (JJ 长途))
+                  (NP (NN 出现)))
+                (NP (NN 变速箱)))
+              (VP
+                (ADVP (AD 过))
+                (VP (VA 热))))
+            (DEC 的))
+          (NP (NN 警示)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 然后))
+      (ADVP (AD 靠边))
+      (VP (VV 停)
+        (VP
+          (ADVP (AD 一))
+          (VP (VV 会)
+            (VP (VV 警示)
+              (VP (VV 消失)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 就))
+      (VP (VV 可以)
+        (VP (VV 继续走))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VE 有)
+        (NP
+          (ADJP (JJ 木))
+          (CP
+            (IP
+              (VP (VE 有)
+                (NP
+                  (ADJP (JJ 同样))
+                  (NP (NN 问题)))))
+            (DEC 的))
+          (NP (NN 求) (NN 详解)))))))
+####
+X

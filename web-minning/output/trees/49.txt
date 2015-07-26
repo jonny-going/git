@@ -1,0 +1,262 @@
+(ROOT
+  (IP
+    (VP (VV c)
+      (NP
+        (NP
+          (NP
+            (QP (CD 30))
+            (NP (NN 用)))
+          (NP (NN 车)))
+        (QP (CD 一)
+          (CLP (M 星期)))
+        (NP (NN 心得))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VE 有)
+      (IP
+        (NP (NN 图))
+        (VP (VV 求)
+          (IP
+            (NP (NN 版主) (NN 认证))
+            (VP (VV 设)
+              (NP
+                (CP
+                  (IP
+                    (NP (NN 精))
+                    (VP
+                      (NP (NT 21号))
+                      (VP (VV 提))))
+                  (DEC 的))
+                (NP (NN 车))))))))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VV 开) (AS 了)
+          (NP
+            (QP (CD 一))
+            (NP (NN 星期))))))
+    (VP (VV 感觉)
+      (IP
+        (VP
+          (ADVP (AD 还))
+          (VP (VA 不错)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (PP (P 除了)
+          (NP (NN 换挡)))
+        (ADVP (AD 有点))
+        (VP (VA 瑟瑟))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 提速))
+    (VP
+      (ADVP (AD 确实))
+      (VP (VV 很)
+        (NP (NN 肉))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (NP
+          (DNP
+            (NP (NR 长城))
+            (DEG 的))
+          (CP
+            (IP
+              (VP (VV 做工)
+                (VP
+                  (ADVP (AD 还是))
+                  (ADVP (AD 相当))
+                  (VP (VA 不错)))))
+            (DEC 的))
+          (NP (NN 空间))))
+      (ADVP (AD 确实)))
+    (FRAG (JJ 不小))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 车))
+    (VP (VV 震)
+      (NP
+        (IP
+          (DNP
+            (NP (NR 神马))
+            (DEG 的))
+          (VP
+            (ADVP (AD 还是))
+            (VP (VV 可以))))
+        (DP (DT 有的))
+        (NP (NN 如图))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 求)
+      (IP
+        (NP
+          (NP
+            (NP (NN 版主) (NN 认证))
+            (NP (NN 侧面)))
+          (NP (NN 霸气) (NN 侧漏)))
+        (FLR (IJ 哈哈))
+        (IP
+          (CP
+            (IP
+              (NP
+                (DNP
+                  (QP (CD 15)
+                    (CLP (M 寸)))
+                  (DEG 的))
+                (NP (NN 小脚)))
+              (VP (VV 还行)))
+            (SP 吧))
+          (NP (NN 侧))
+          (VP
+            (VP (VV 看)
+              (ADVP (AD 很))
+              (NP
+                (NP
+                  (NP (NN 霸气))
+                  (ADJP (JJ 正面))
+                  (NP (NN 菊花)))
+                (ADJP
+                  (ADVP (AD 很))
+                  (ADJP (JJ 一般)))
+                (NP (NN 侧面))))
+            (VP (VV 看) (AS 着))))
+        (VP
+          (ADVP (AD 流线))
+          (VP (VA 不错)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 感觉)
+      (IP
+        (NP (NN 比赛))
+        (NP (NR 欧))
+        (VP
+          (VP (VA 好看))
+          (VP (VV 多) (AS 了)
+            (NP
+              (DNP
+                (NP
+                  (ADJP (JJ 小))
+                  (NP (NN c)))
+                (DEG 的))
+              (NP (NN 近视眼)))))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 无力吐槽))
+    (VP (VV 看看)
+      (NP
+        (DNP
+          (NP
+            (NP (NN 内饰) (NN 感觉))
+            (DP (DT 这个))
+            (NP (NN 价位)))
+          (DEG 的))
+        (NP (NN 内饰))))))
+####
+(ROOT
+  (FRAG
+    (NP (NR ) (NR 长城))
+    (VP
+      (VP
+        (VP (VV 做) (DER 的)
+          (VP (VV 算是)
+            (NP
+              (CP
+                (IP
+                  (NP
+                    (CP
+                      (CP
+                        (IP
+                          (VP (VA 不错))
+                          (DEC 的))
+                        (SP 了))
+                      (CP
+                        (IP
+                          (NP
+                            (NP
+                              (ADJP (JJ 硬))
+                              (NP (NN 塑料) (NN 无力吐槽)))
+                            (NP (NN 储物盒) (NN 档杆)))
+                          (VP
+                            (VP (VV 看) (AS 着)
+                              (NP
+                                (CP
+                                  (IP
+                                    (VP
+                                      (ADVP (AD 还))
+                                      (VP (VV 挺有)
+                                        (NP (NN 档次)))))
+                                  (DEC 的))
+                                (NP (NN 后排) (NN 空间))))
+                            (VP (VA 不错))))
+                        (SP 啊)))
+                    (QP (CD 4))
+                    (NP (NN s)))
+                  (VP (VV 送)))
+                (DEC 的))
+              (NP (NN 贴膜) (NN 质量)))
+            (IP
+              (VP
+                (ADVP (AD 一般))
+                (VP
+                  (VPT (VV 招手) (AD 即) (VV 停))
+                  (FLR (IJ 哈哈))
+                  (NP (NN 大鹏)))))))
+        (VP (VV 展翅)
+          (NP (NN 磨合期) (NN 油耗))))
+      (VP
+        (ADVP (AD 有点))
+        (VP (VV 高啊)
+          (QP
+            (QP (CD 百)
+              (CLP (M 公里)))
+            (ADVP (AD 差不多)))))
+      (VP
+        (VP (VE 有)
+          (IP
+            (NP
+              (QP (CD 七八)
+                (CLP (M 个)))
+              (NP (NN 油)))
+            (VP
+              (NP (NT 下午))
+              (VP (VV 忘记)
+                (VP (VV 拍)
+                  (NP (NN 钥匙)))))))
+        (AS 了)
+        (NP (NT 现在)))
+      (VP
+        (VP (VV 补)
+          (NP
+            (QP (CD 一)
+              (CLP (M 张)))
+            (NP (NN 认证) (NN 神器))))
+        (VP (VV 版主)
+          (VP (VV 能)
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 不))
+                  (VP (VV 能)
+                    (PP (P 给)
+                      (NP (NN 精) (NN 认证)))
+                    (ADVP (AD 一下)))))
+              (SP 啊))))))))

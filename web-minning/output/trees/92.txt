@@ -1,0 +1,313 @@
+(ROOT
+  (IP
+    (IP
+      (VP (VV 开)
+        (NP (NN 空调) (NN 怠速) (NN 抖动) (NN 空调))))
+    (IP
+      (VP
+        (PP (P 继)
+          (NP (NN 电器)))
+        (ADVP (AD 频繁))
+        (VP (VV 吸))))
+    (IP
+      (VP (VV 合)
+        (NP (NT 07年) (NT 12月) (NT 1))))))
+####
+(ROOT
+  (NP
+    (DNP
+      (QP (CD 4))
+      (DEG 的))
+    (NP (NN 富康))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (VP (VV 开)
+              (NP (NN 空调) (NN 怠速))))
+          (DEC 的))
+        (NP (NN 时候))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 转速) (NN 表))
+    (VP
+      (PP (P 在)
+        (LCP
+          (IP
+            (QP (CD 900))
+            (VP
+              (VCD (VV 转到) (CD 一千五百) (VV 转))))
+          (LC 之间)))
+      (ADVP (AD 上下))
+      (VP (VV 抖动)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 空调))
+    (VP (VV 吸)
+      (NP (NN 合上)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 就))
+      (ADVP
+        (ADVP (AD 很))
+        (ADVP (AD 快)))
+      (VP (VV 断开) (AS 了)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 然后))
+      (ADVP (AD 又))
+      (VP (VV 吸合)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不断))
+      (VP (VV 重复)
+        (NP
+          (DP (DT 这个))
+          (NP (NN 过程)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (NP (PN 大家))
+    (VP (VV 给)
+      (VP (VV 讲讲)
+        (IP
+          (VP
+            (NP
+              (DP (DT 什么))
+              (NP (NN 问题)))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (ADVP (AD 另外)))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP
+        (DNP
+          (NP (PN 我))
+          (DEG 的))
+        (NP (NN 小康)))
+      (VP (VE 有)
+        (NP (NN 碳) (NN 罐))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 刚))
+      (VP (VV 找着)
+        (NP (NN 组织))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ) (NN 心情))
+      (VP (VA 激动)))
+    (SP 啊)))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 我))
+      (VP
+        (ADVP (AD 太))
+        (VP (VV 喜欢)
+          (NP
+            (DNP
+              (NP (NN 富康))
+              (DEG 的))
+            (NP (NN 线条)
+              (CC 和)
+              (NN 造型))))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (LCP
+        (IP
+          (VP (VV 买) (AS 了)))
+        (LC 之后))
+      (ADVP (AD 才))
+      (VP (VV 发现)
+        (IP
+          (NP (NN 操控))
+          (VP (VC 是)
+            (VP
+              (ADVP (AD 那么))
+              (VP (VA 好)))))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (NP (NR ))
+        (DNP
+          (NP (NR 捷达))
+          (DEG 的))
+        (NP (NN 轴距)))
+      (VP
+        (ADVP (AD 太))
+        (VP (VA 小))))
+    (SP 了)))
+####
+(ROOT
+  (UCP
+    (IP
+      (NP
+        (DNP
+          (NP (NN ) (NN 普桑))
+          (DEG 的))
+        (NP (NN 操控)))
+      (VP
+        (ADVP (AD 感和))
+        (VP (VV 关门)
+          (NP (NN 声音)))))
+    (CP
+      (IP
+        (VP (VV 钣金)
+          (NP (PN 什么))))
+      (SP 的))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (CP
+          (IP
+            (NP (PN 我))
+            (VP (VV 觉)))
+          (DEC 的))
+        (DNP
+          (PP (P 不如)
+            (NP (PN 我)))
+          (DEG 的))
+        (NP (NN 小康))))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 我))
+      (VP (VV 改) (AS 了)
+        (NP (NN 甲醇))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ) (NN 发动机))
+      (NP (NN 声音)))
+    (VP
+      (ADVP (AD 低沉))
+      (VP (VA 好听) (AS 了)
+        (QP (CD 许多))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 感觉)
+        (IP
+          (NP (NN 劲))
+          (VP
+            (PP (P 比)
+              (NP
+                (IP
+                  (VP (VV 烧)))
+                (ADJP (JJ 纯))
+                (NP (NN 汽油))))
+            (VP (VA 大)
+              (ADVP (AD 一点)))))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 我))
+    (NP
+      (DP (DT 这个))
+      (NP (NN 控制器)))
+    (VP (VC 是)
+      (DNP
+        (ADJP (JJ 自动))
+        (DEG 的)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 甲醇) (NN 汽油))
+    (VP
+      (ADVP (AD 随便))
+      (VP (VV 加)))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (ADVP (AD 挺))
+        (VP (VA 方便))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (ADJP (JJ ))
+        (NP (NN 麻烦)))
+      (NP (NN 高手)))
+    (VP (BA 把)
+      (IP
+        (NP (PN 我))
+        (VP
+          (NP
+            (DP (DT 这)
+              (QP (CD 两)
+                (CLP (M 个))))
+            (NP (NN 问题)))
+          (PP (P 给)
+            (NP (NN 赐教)))
+          (VP (VV 下)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 谢谢) (AS 了)))))
+####
+(ROOT
+  (IP
+    (LCP
+      (NP (NN ))
+      (LC 以后))
+    (VP
+      (ADVP (AD 经常))
+      (VP (VV 发帖)
+        (VP (VV 分享)
+          (NP
+            (DNP
+              (ADJP (JJ 小康))
+              (DEG 的))
+            (NP (NN 感受))))))))
+####
+X

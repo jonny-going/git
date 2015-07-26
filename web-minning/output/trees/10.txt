@@ -1,0 +1,72 @@
+(ROOT
+  (QP
+    (NP (CD 06)
+      (CLP (M 款)))
+    (QP (CD 2))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 4v凯美))
+      (NP (NR 瑞))
+      (QP (CD 一)
+        (CLP (M 箱)))
+      (NP (NN 油)))
+    (VP
+      (ADVP (AD 为何))
+      (ADVP (AD 才))
+      (VP (VV 跑)
+        (QP (CD 400)
+          (CLP (M 公里)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP
+        (QP (CD 06)
+          (CLP (M 款)))
+        (QP (CD 2))))))
+####
+(ROOT
+  (IP
+    (NP
+      (QP (CD 4v凯美))
+      (NP (NR 瑞))
+      (QP (CD 一)
+        (CLP (M 箱)))
+      (NP (NN 油)))
+    (VP
+      (ADVP (AD 为何))
+      (ADVP (AD 才))
+      (VP (VV 跑)
+        (QP (CD 400)
+          (CLP (M 公里)))))))
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP (VV 请)
+      (IP
+        (NP
+          (NP
+            (DP (DT 各位))
+            (NP (NN 高人)))
+          (NP (NN 指点)))
+        (ADVP (AD 为何))
+        (NP
+          (DP (DT 这)
+            (CLP (M 款车)))
+          (NP (NN 耗油)))
+        (VP
+          (ADVP (AD 这么))
+          (VP (VA 大)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 如何))
+      (VP
+        (VRD (VV 处理) (VV 好))))))
+####
+X

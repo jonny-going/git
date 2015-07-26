@@ -1,0 +1,93 @@
+(ROOT
+  (FRAG
+    (NP (NR 瑞虎) (NN 导航) (NN 信号))
+    (QP (CD 断续))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 消失)))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 咋么)
+          (CLP (M 回)))
+        (NP (NN 事))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (DP (DT 前)
+        (QP (CD 两)
+          (CLP (M 天))))
+      (VP (VV 发现)
+        (IP
+          (NP (NN 导航) (NN 信号))
+          (VP (VA 异常)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 开机)
+      (NP (NN 搜不到) (NN 信号)))))
+####
+(ROOT
+  (UCP
+    (IP
+      (NP (NN ))
+      (VP (VE 有)
+        (NP
+          (QP (CD 几)
+            (CLP (M 次)))
+          (NP (NN 开了)))))
+    (CP
+      (IP
+        (NP
+          (QP (CD 半))
+          (ADJP (JJ 小))
+          (NP (NN 时候)))
+        (VP (VV 能)
+          (VP (VV 搜到)
+            (NP (NN 卫星)))))
+      (SP 了))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 没导))
+    (VP
+      (ADVP (AD 一会))
+      (ADVP (AD 又))
+      (VP (VV 没了)))))
+####
+(ROOT
+  (IP
+    (LCP
+      (NP (NN ))
+      (LC 之前))
+    (VP
+      (ADVP (AD 很))
+      (VP (VA 正常)))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 突然))
+        (VP (VA 这样))))
+    (SP 了)))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP
+          (DP (DT 什么))
+          (NP (NN 原因)))))
+    (SP 呢)))
+####
+X

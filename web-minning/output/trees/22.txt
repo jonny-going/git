@@ -1,0 +1,165 @@
+(ROOT
+  (CP
+    (IP
+      (NP
+        (ADJP (JJ 大))
+        (NP (NN 天窗)))
+      (VP
+        (PP (P 给)
+          (NP (NN 力)))
+        (VP (VV ~~~爽)
+          (NP
+            (CP
+              (IP
+                (VP
+                  (ADVP (AD 最))
+                  (VP (VV 喜欢)
+                    (NP (NN 骏骏)))))
+              (DEC 的))
+            (ADJP
+              (ADVP (AD 超级))
+              (ADJP (JJ 大)))
+            (NP (NN 天窗))))))
+    (SP 了)))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 估计) (AS 了)
+        (ADVP (AD 一下))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (CS 如果))
+      (ADVP (AD 完全))
+      (VP (VV 打开)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NN ))
+      (QP (CD 四)
+        (CLP (M 个)))
+      (NP (NN 大人)))
+    (VP (VV 可以)
+      (VP
+        (ADVP (AD 同时))
+        (VP (VV 进出))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VE 有)
+        (NP
+          (DP (DT 这个))
+          (NP (NN 优势)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (CS 如果))
+      (VP (VV 遇到)
+        (NP
+          (NP
+            (NP (NT 去年))
+            (NP (NN 京城)))
+          (DNP
+            (ADJP (JJ 那样))
+            (DEG 的))
+          (NP (NN 洪水)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 加上)
+        (NP
+          (DNP
+            (NP (NN 骏骏))
+            (DEG 的))
+          (IP
+            (VP (VA 密闭)))
+          (NP (NN 性能)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (PP (P 在)
+        (LCP
+          (NP
+            (DNP
+              (ADJP (JJ 有限))
+              (DEG 的))
+            (NP (NN 时间)))
+          (LC 里面)))
+      (VP (VV 逃生)
+        (VP (VV 应该)
+          (VP (VC 是)
+            (NP
+              (CP
+                (IP
+                  (VP (VE 没有)
+                    (NP (NN 问题))))
+                (DEC 的)))))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (LCP
+        (IP
+          (ADVP (AD 而且))
+          (NP
+            (DNP
+              (ADJP
+                (ADVP (AD 这么))
+                (ADJP (JJ 大)))
+              (DEG 的))
+            (NP (NN 天窗)))
+          (VP
+            (PP (P 在)
+              (LCP
+                (NP
+                  (DP (DT 同)
+                    (CLP (M 级)))
+                  (NP (NN 车)))
+                (LC 中)))
+            (ADVP (AD 绝对))
+            (VP (VV 算得))))
+        (LC 上)))
+    (FLR (JJ 极品))))
+####
+(ROOT
+  (IP
+    (IP
+      (IP
+        (VP
+          (ADVP (AD ))
+          (VP (VV 躺在)
+            (LCP
+              (NP (NN 车床))
+              (LC 上)))))
+      (VP (VV 看)
+        (NP (NN 天空))))
+    (IP
+      (NP
+        (QP (CD 数))
+        (NP (NN 星星)))
+      (VP
+        (ADVP (AD 确实))
+        (VP (VC 是)
+          (NP
+            (QP
+              (CLP (M 件)))
+            (NP (NN 爽事))))))))
+####
+X
+####
+X
+####
+X

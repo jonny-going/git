@@ -1,0 +1,82 @@
+(ROOT
+  (IP
+    (VP (VV 入手)
+      (QP (CD 1)))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP
+        (QP (CD 6))
+        (NP (NN cvt)))
+      (NP (NN 舒适型)))
+    (VP
+      (ADVP (AD 终于))
+      (VP (VV 决定)
+        (IP
+          (VP
+            (ADVP (AD 入手骐))
+            (VP (VV 达) (AS 了))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (NP (NR ))
+      (ADVP (JJ 最低))
+      (VV 配)
+      (CP
+        (IP
+          (VP
+            (ADVP (AD 自动))
+            (VP (VV 挡))))
+        (DEC 的))
+      (NP (NN 价格)))
+    (VP (VV 优惠)
+      (NP
+        (QP
+          (QP (CD 18000))
+          (PU +)
+          (QP (CD 3000)))
+        (ADJP (JJ 节能))
+        (NP (NN 补贴))))
+    (PRN (PU ~~~)
+      (IP
+        (NP
+          (DP (DT 全))
+          (IP
+            (VP (VV 办)
+              (VP (VV 下来)
+                (QP (CD 112000))
+                (PRN (PU （)
+                  (VP (VV 送)
+                    (NP
+                      (UCP
+                        (ADJP
+                          (NP (NN 底盘))
+                          (ADJP (JJ 装甲)))
+                        (PU 、)
+                        (NP (NN 发动机)))
+                      (NP (NR 护甲) (PU 、) (NR 封釉) (PU 、) (NR 贴膜) (PU 、) (NR 脚垫))))
+                  (PU ）)))))
+          (DP (DT 这个))
+          (NP (NN 价格)))
+        (VP
+          (ADVP (AD 还))
+          (VP (VV 可以)))
+        (SP 吗)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN [))
+    (VP
+      (DP (DT 本)
+        (CLP (M 帖)))
+      (ADVP (AD 最后))
+      (PP (P 由)
+        (NP (NN 无牌)))
+      (VP (VV 购车)
+        (PP (P 于)
+          (NP
+            (QP (CD 2013-07-01))
+            (QP (CD 00:00:19))
+            (NP (NN 编辑) (NN ]))))))))

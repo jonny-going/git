@@ -1,0 +1,129 @@
+(ROOT
+  (IP
+    (VP (VV 开) (AS 了)
+      (NP
+        (QP (CD 3100))
+        (NP (NN km))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 还是))
+      (VP (VV 发现)
+        (NP (NN 门) (NN 有异) (NN 响了))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 速锐))
+    (VP
+      (ADVP (AD tid))
+      (VP (VV 开了)
+        (NP
+          (QP (CD 3100))
+          (NP (NN km)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (NP (NT 今天))
+      (ADVP (AD 才))
+      (VP (VV 发现)
+        (IP
+          (NP
+            (DNP
+              (NP (NN 副驾驶))
+              (DEG 的))
+            (NP (NN 门)))
+          (VP
+            (ADVP (AD 有点))
+            (VP
+              (VCD (VA 异) (VA 响了)))))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (VP
+            (ADVP (AD ))
+            (VP (VV 遇到)
+              (NP (NN 不平)))))
+        (DEC 的))
+      (NP (NN 路)))
+    (VP
+      (ADVP (AD 就))
+      (VP (VV 会)
+        (VP (VV 响))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 心里))
+    (VP
+      (ADVP (AD 不))
+      (ADVP (AD 怎么))
+      (VP (VV 在意)))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (ADVP (AD 但)))
+      (CC 还是)
+      (VP
+        (ADJP (JJ 不舒服))))))
+####
+(ROOT
+  (IP
+    (ADVP (AD ))
+    (NP (PN 大家))
+    (VP
+      (VP (VE 有))
+      (VP (VV 遇上)
+        (NP (NN 的么))))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP
+          (CP
+            (IP
+              (VP
+                (ADVP (AD 都))
+                (ADVP (AD 怎么))
+                (VP (VV 处理))))
+            (DEC 的)))))
+    (SP 呀)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP (VV 准备)
+      (IP
+        (NP
+          (QP (OD 首))
+          (NP (NN 保时)))
+        (VP
+          (VP (VV 找)
+            (NP
+              (QP (CD 4))
+              (NP (NN s))))
+          (VP (VV 处理)))))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 不))
+      (VP (VV 知道)
+        (IP
+          (VP (VV 能否)
+            (VP (VV 弄好))))))))
+####
+X
+####
+X
+####
+X

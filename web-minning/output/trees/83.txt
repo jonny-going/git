@@ -1,0 +1,68 @@
+(ROOT
+  (IP
+    (NP
+      (NP
+        (NP (NR 跪求))
+        (NP (NR 广东))
+        (NP (NR 珠三角))
+        (NP (NN 地区)))
+      (NP
+        (NP
+          (NP
+            (DP (DT 各)
+              (QP (CD 4)))
+            (NP (NN s)))
+          (ADJP (JJ 经典))
+          (NP (NN 轩逸)))
+        (ADJP (JJ 自动))
+        (ADJP (JJ 舒适))
+        (NP (NN 版)))
+      (NP (NN 价格)))
+    (VP (VV 请问)
+      (NP
+        (DNP
+          (NP
+            (NP
+              (NP
+                (DP (DT 各位))
+                (NP (NN 大虾)))
+              (NP (NR 广东))
+              (NP
+                (NP (NR 珠三角))
+                (QP (CD 几)
+                  (CLP (M 个)))
+                (NP (NN 城市)))
+              (ADJP (JJ 经典))
+              (NP (NN 轩逸)))
+            (ADJP (JJ 自动))
+            (ADJP (JJ 舒适))
+            (NP (NN 版)))
+          (DEG 的))
+        (ADJP (JJ 落地))
+        (NP (NN 价))))))
+####
+(ROOT
+  (IP
+    (VP
+      (VP (VV )
+        (QP (CD 11w5)))
+      (VP
+        (VNV (VV 能) (AD 不) (VV 能))
+        (VP (VV 开走))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VE 没)
+        (NP (NN 办法))))))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (ADVP (AD ))
+        (VP (VA 多) (AS 了))))
+    (IP
+      (NP (NN 米))
+      (VP (VA 不够)))))

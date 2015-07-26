@@ -1,0 +1,81 @@
+(ROOT
+  (CP
+    (IP
+      (NP (NN 买君威))
+      (VP
+        (ADVP (AD 有点))
+        (VP (VV 后悔))))
+    (SP 啊)))
+####
+X
+####
+X
+####
+(ROOT
+  (FRAG (NN ) (CD 1)))
+####
+(ROOT
+  (CP
+    (IP
+      (QP (CD 6t))
+      (VP (VA 自动)))
+    (SP 的)))
+####
+X
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 240)
+          (CLP (M 块)))
+        (QP (CD 97))
+        (NP (NN 号油))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (QP (CD 四格油)))))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (AD 才))
+      (VP (VV 跑)
+        (QP (CD 140)
+          (CLP (M 公里)))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ))
+      (VP
+        (ADVP (AD 就))
+        (VP (VV 只剩)
+          (NP
+            (QP (CD 二))
+            (NP (NN 格))))))
+    (SP 了)))
+####
+X
+####
+X
+####
+X
+####
+X
+####
+(ROOT
+  (IP
+    (NP (NR ))
+    (VP
+      (ADVP (AD 真))
+      (VP (VV 费)
+        (NP (NN 油))))))
+####
+X
+####
+X
+####
+X

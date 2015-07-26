@@ -1,0 +1,21 @@
+(ROOT
+  (IP
+    (IP
+      (NP (NN 迈腾) (NN 仪表盘) (NN 发热))
+      (VP (VC 是)
+        (NP
+          (DP (DT 什么))
+          (NP (NN 问题)))))
+    (IP
+      (NP (NN 迈腾) (NN 仪表盘) (NN 发热))
+      (VP (VC 是)
+        (NP
+          (DP (DT 什么))
+          (NP (NN 问题)))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 求)
+        (NP (NN 高手) (NN 指教))))))

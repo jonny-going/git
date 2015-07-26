@@ -1,0 +1,253 @@
+(ROOT
+  (CP
+    (IP
+      (PP (P 关于)
+        (NP
+          (QP (CD 408))
+          (NP (NN 刹车) (NN 问题))))
+      (NP (PN 我))
+      (VP (VC 是)
+        (QP (CD 10)
+          (CLP (M 款)))))
+    (SP 的)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 刹车))
+    (VP
+      (ADVP (AD 没))
+      (VP (VV 觉得)
+        (IP
+          (VP
+            (ADVP (AD 不))
+            (VP (VA 好))))))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (VP (VV 看) (AS 了)
+        (NP
+          (CP
+            (IP
+              (NP
+                (QP (CD zzy77))
+                (NP (NN 留言)))
+              (VP (VV 说)
+                (IP (PU “)
+                  (IP
+                    (NP (PN 我))
+                    (VP
+                      (NP (NT 今天))
+                      (ADVP (AD 也))
+                      (VP (VV 遇到) (AS 了))))
+                  (VP (VV 踩死)
+                    (NP (NN 刹不住))))))
+            (DEC 的))
+          (NP (NN 情况)))))))
+####
+(ROOT
+  (IP
+    (VP (VV )
+      (NP
+        (QP (CD 一))
+        (NP (NN 脚)))
+      (IP
+        (VP (VV 下去)
+          (VP
+            (ADVP (AD 还))
+            (ADVP (AD 往前))
+            (VP (VV 溜) (AS 了)
+              (LCP
+                (QP
+                  (ADVP (AD 约))
+                  (QP (CD 1)
+                    (CLP (M 米))))
+                (LC 左右)))))))))
+####
+(ROOT
+  (IP
+    (IP
+      (NP
+        (NP (NN ) (NN 楼上))
+        (DP (DT 有些))
+        (NP (NN 车友)))
+      (VP
+        (ADVP (AD 没))
+        (VP
+          (VPT (VV 遇到) (AD 不) (VV 能)))))
+    (IP
+      (ADVP (AD 就说))
+      (NP (NN 别人))
+      (VP
+        (ADVP (AD 在))
+        (VP (VV 黑噻))))))
+####
+(ROOT
+  (IP
+    (NP
+      (CP
+        (IP
+          (NP
+            (NP (NR ) (PU ”))
+            (NP (PN 大家))
+            (NP (NN 投诉) (NN 刹车)))
+          (VP
+            (ADVP (AD 不))
+            (VP (VA 好))))
+        (DEC 的)))
+    (VP (VC 是)
+      (CP
+        (IP
+          (VP (VA 这样)))
+        (SP 吗)))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 刹车))
+    (VP (VV 踩)
+      (CP
+        (IP
+          (ADVP (AD 到底))
+          (NP (NN 车子))
+          (VP (VV 应该)
+            (VP
+              (ADVP (AD 立马))
+              (ADVP (AD 原地))
+              (ADVP (AD 不))
+              (VP (VV 动)))))
+        (SP 吗)))))
+####
+(ROOT
+  (IP
+    (VP
+      (ADVP (AD ))
+      (ADVP (AD 不))
+      (VP (VV 考虑)
+        (NP (NN 车速))))))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 路面))
+    (VP (VA 湿滑))))
+####
+(ROOT
+  (CP
+    (IP
+      (VP (VV )
+        (NP (CC 和)
+          (NP (NN 惯性)))))
+    (SP 吗)))
+####
+(ROOT
+  (IP
+    (NP (NN ))
+    (VP
+      (ADVP (CS 要是))
+      (VP (VA 这样)))))
+####
+(ROOT
+  (CP
+    (IP
+      (ADVP (AD ))
+      (NP (PN 那))
+      (VP
+        (VP (VV 购)
+          (NP (NN 皮))
+          (QP (CD 408)))
+        (VP (VV 害人))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (NP (NN ) (NN 设计))
+    (VP
+      (ADVP (AD 一定))
+      (VP (VE 有)
+        (NP (NN 问题))))))
+####
+(ROOT
+  (IP
+    (CP
+      (IP
+        (VP (VV )
+          (NP
+            (DNP
+              (NP (PN 我))
+              (DEG 的))
+            (NP (NN 车)))
+          (QP (CD 100))))
+      (SP 吗))
+    (IP
+      (NP (NN 刹车))
+      (VP
+        (VRD (VV 踩) (VV 到底))))))
+####
+(ROOT
+  (CP
+    (IP
+      (NP (NN ) (NN tmd))
+      (VP (VV 要)
+        (VP
+          (ADVP (AD 向前))
+          (VP (VV 溜)
+            (QP (CD 39)
+              (CLP (M 米)))))))
+    (SP 了)))
+####
+(ROOT
+  (CP
+    (IP
+      (NP
+        (NP (NR ))
+        (DP (DT 这个))
+        (NP (NN 车)))
+      (VP
+        (ADVP (AD 不))
+        (VP (VV 能)
+          (VP (VV 买)))))
+    (SP 啊)))
+####
+(ROOT
+  (IP
+    (IP
+      (VP
+        (VP
+          (ADVP (AD ))
+          (VP (VV 参考)
+            (NP (NN 贴))))
+        (PU ：)
+        (VP (LB 被)
+          (IP
+            (QP (CD 408))
+            (VP (VV 搞) (DER 得)
+              (IP
+                (VP (VE 有)
+                  (NP (NN 点头) (NN 暈) (NN http)))))))))
+    (PU :)
+    (IP
+      (VP (VV //club)))))
+####
+(ROOT
+  (IP
+    (VP (VV autohome))))
+####
+(ROOT
+  (FRAG (NR com)))
+####
+(ROOT
+  (FRAG
+    (QP (CD cn/bbs/thread-c-987-23556621-2))))
+####
+(ROOT
+  (NP
+    (DNP
+      (NP
+        (QP (CD html35)
+          (CLP (M 楼)))
+        (QP (CD zzy77))
+        (NP
+          (DP (DT 同))
+          (NP (NN 学))))
+      (DEG 的))
+    (NP (NN 描述))))
