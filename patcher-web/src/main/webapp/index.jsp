@@ -5,13 +5,13 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>Hello World</title>
+<title>Fetcher</title>
 </head>
 <body>
-	<h1>Hello World From Struts2</h1>
+	<h1>Scan the path to find the modified files</h1>
 	<form action="hello" method="post">
-		<label for="name">Please enter your name</label><br /> <input
-			type="text" name="name" /> <input type="submit" value="Say Hello" />
+		<label for="path">Please enter the project path</label><br /> <input
+			type="text" name="path" /><input type="submit" value="Say Hello" />
 	</form>
 </body>
 </html>

@@ -11,8 +11,12 @@
 			<result type="dispatcher">index.jsp</result>
 		</action>
 		<!-- 对action返回结果的配置 -->
-		<action name="hello" class="priv.gzz.patcher.web.action.HelloWorldAction">
-			<result name="success">/helloworld.jsp</result>
+		<action name="hello" class="priv.gzz.patcher.web.action.ScanModifiedAction">
+			<result name="success">/modifiedList.jsp</result>
+			<result name="login">/index.jsp</result>
+		</action>
+		<action name="fetch" class="priv.gzz.patcher.web.action.PackageAction">
+			<result name="success">/package.jsp</result>
 			<result name="login">/index.jsp</result>
 		</action>
 	</package>
