@@ -1436,3 +1436,7 @@ org.eclipse.jface.text.BadLocationException: null
 2015-07-29 17:08:14,932 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2015-07-29 17:08:14,934 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2015-07-29 17:08:14,934 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\git\patcher-web\src\test\resources
+2015-07-29 17:15:50,395 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-29 17:15:50,396 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-07-29 17:15:50,399 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-07-29 17:15:50,401 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\git\patcher-web\src\test\resources

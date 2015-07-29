@@ -3403,3 +3403,9 @@ Binding(CTRL+SHIFT+M,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-07-29 17:08:14.934
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-07-29 17:15:50.396
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-07-29 17:15:50.401
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
