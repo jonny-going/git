@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/priv/gzz/crawl/handler/DownLoadFile.java=GBK
+encoding//src/main/java/priv/gzz/crawl/http/RetrivePage.java=GBK
+encoding//src/main/java/priv/gzz/crawl/http/Url.java=GBK
+encoding//src/main/java/priv/gzz/crawl/util/FileUtil.java=GBK
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8

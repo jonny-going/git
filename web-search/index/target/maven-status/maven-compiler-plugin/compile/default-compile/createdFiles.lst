@@ -1,0 +1,11 @@
+priv\gzz\index\Index2Builder.class
+priv\gzz\index\Index1Builder$WordMap.class
+priv\gzz\index\util\Constant.class
+priv\gzz\index\Index2Builder$WordReduce.class
+priv\gzz\index\Index1Builder.class
+priv\gzz\index\Index1Builder$WordReduce.class
+priv\gzz\index\bean\MultiInfo.class
+priv\gzz\index\test\WordCount$Reduce.class
+priv\gzz\index\test\WordCount.class
+priv\gzz\index\Index2Builder$WordMap.class
+priv\gzz\index\test\WordCount$Map.class
