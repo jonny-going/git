@@ -1,4 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="s" uri="/struts-tags" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,7 +20,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Project name</a>
+          <a class="navbar-brand" href="#"><s:text name="user.project.name"/></a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -27,6 +28,21 @@
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+	          <div style="margin-top:15px">
+	            <div class="control-group">
+		          <!-- Select Basic -->
+		          <div class="controls">
+		          	<select class="input-xlarge" onchange="changeLanguage(this)">
+		          		<option value="zh_CN" <s:if test='%{#session.language == "zh_CN"}'>selected</s:if>>中文</option>
+		          		<option value="en_US" <s:if test='%{#session.language == "en_US"}'>selected</s:if>>English</option>
+		          	</select>
+		          </div>
+		        </div>
+	          </div>
+            </li>
+          </ul> 
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
     </nav><!-- /.navbar -->

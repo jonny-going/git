@@ -10,6 +10,8 @@
 	<constant name="struts.convention.package.locators.basePackage" value="priv.gzz.user.action" />
 	<constant name="struts.convention.classes.reload" value="true" />
 	<constant name="struts.i18n.encoding" value="UTF-8" />
+	<constant name="struts.objectFactory" value="spring" />
+	<constant name="struts.custom.i18n.resources" value="properties/ApplicationResources" />
 	<constant name="struts.devMode" value="true" />
 
 	<package name="default" namespace="/" extends="struts-default">

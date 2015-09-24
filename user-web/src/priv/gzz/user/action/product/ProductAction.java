@@ -1,6 +1,6 @@
 package priv.gzz.user.action.product;
 
-import priv.gzz.user.bean.Product;
+import priv.gzz.user.bo.Product;
 
 import com.opensymphony.xwork2.ActionSupport;
 

@@ -1,16 +1,24 @@
 package priv.gzz.user.action.user;
 
+import java.util.List;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Scope;
 
 import com.opensymphony.xwork2.ActionSupport;
 
-import priv.gzz.user.bean.User;
+import priv.gzz.user.po.User;
+import priv.gzz.user.service.IUserService;
 
+@Scope(value = "request")
 public class UserAction extends ActionSupport {
 	private static final long serialVersionUID = -4987136000387786191L;
 
 	private static Logger logger = LogManager.getLogger(UserAction.class.getName());
+	@Autowired
+	private IUserService userService;
 
 	private User user;
 
@@ -27,7 +35,8 @@ public class UserAction extends ActionSupport {
 	}
 
 	public String search() {
-		logger.debug("search user-->" + userName);
+		List<User> users = userService.searchAllUsers();
+		logger.debug("search user result-->" + users);
 		return "search";
 	}
 
@@ -50,5 +59,13 @@ public class UserAction extends ActionSupport {
 
 	public void setUserName(String userName) {
 		this.userName = userName;
+	}
+
+	public IUserService getUserService() {
+		return userService;
+	}
+
+	public void setUserService(IUserService userService) {
+		this.userService = userService;
 	}
 }
